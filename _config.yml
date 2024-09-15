@@ -21,7 +21,7 @@ repository               : "shantianqin/shantianqin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "qst.png"
+  avatar           : "qst.ipg"
   name             : "Shantian Qin"
   pronouns         : # example: "she/her"  
   bio              : "Stay hungry. Stay foolish."
