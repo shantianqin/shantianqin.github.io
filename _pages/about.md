@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second-year M.S. student at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)). Before joining ICT, I obtained a bachelor's degree from the [School of Microelectronics](https://acm.sjtu.edu.cn/home), [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, parallel scheduling, and hardware-software co-design.
+Welcome! I am a second-year M.S. student at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the [School of Microelectronics](https://acm.sjtu.edu.cn/home), [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, parallel scheduling, and hardware-software co-design.
 
 ## Education
 Sep. 2013 - Jul. 2019: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -45,11 +45,16 @@ Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yi
     Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019.  -->
 
 ## Industry Experiences
-* **SmartCo**<span style="float:right;">Feb 2023 - Current </span>  
-Research intern in Dataflow Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). 
+* **SmartCo**  Feb 2023 - Current </span>  
+Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
+* Work Overview: Dataflow accelerators and RISC-V processors
+* RTL: Scratchpad Memory and Cache reusable on-chip memory implementation
+* Simulator: Tensor Unit and SIMD/Logic Instructions optimization
+* Runtime: Runtime design for multiple applications dynamic scheduling 
 
-* **AMD**<span style="float:right;">Undergraduate </span>  
+* **AMD**  Undergraduate Intern
 Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
+* Development of hardware-accelerated open-source libraries optimized for Xilinx FPGA and Versal ACAP hardware platforms 
 
 <!-- * **SmartCo** Feb 2023 - Current
     Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
