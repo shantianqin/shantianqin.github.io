@@ -25,19 +25,19 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## Research Experiences
 **[In Progress] StreamCIM: Streaming Digital Computing-in-Memory Architecture**
 * Software: dataflow-driven scheduling scheme
-* Hardware: streaming digital CIM architecture
+* Hardware: streaming digital CIM microarchitecture
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
 * Software: semi-centralized dynamic scheduling scheme 
-* Hardware: decoupled taskflow/dataflow architecture
+* Hardware: decoupled taskflow/dataflow microarchitecture
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
 * Software: distributed dynamic scheduling scheme
-* Hardware: decentralized dataflow architecture
+* Hardware: decentralized dataflow microarchitecture
 
 **[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
 * Software: adaptive data prefetching scheme 
-* Hardware: reconfigurable on-chip memory architecture
+* Hardware: reconfigurable on-chip memory microarchitecture
 
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
