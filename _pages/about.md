@@ -61,7 +61,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Honors and Awards
 * First Prize in Academic Scholarship, UCAS, 2023
-* First Prize Scholarship for Outstanding Students (5\%), Tongji University, 2021-2022
+* First Prize Scholarship for Outstanding Students (5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
   
