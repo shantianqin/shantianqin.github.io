@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a second-year M.S. student at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)). Before joining ICT, I obtained a bachelor's degree from the [School of Microelectronics](https://acm.sjtu.edu.cn/home), [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, parallel scheduling, and hardware-software co-design.
 
-## Education Experience
+## Education
 Sep. 2013 - Jul. 2019: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Electronic Science and Technology
@@ -22,10 +22,33 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
+## Research Experiences
+* **Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span>  
+Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
+
+* **Alibaba DAMO Academy**<span style="float:right;">Jun 2023 - Jan 2024 </span>  
+Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
+
+* **Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span>  
+Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
+
+* **Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span>  
+Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
+
+## Industry Experiences
+* **SmartCo**<span style="float:right;">Feb 2023 - Current </span>  
+Research intern in Dataflow Accelerators and RISC-V Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). 
+
+* **AMD**<span style="float:right;">Undergraduate </span>  
+Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin 
+
 ## Publications
-* **[In Submission]** **S. Qin** et al., "Towards Efficient Dynamic Scheduling in Dataflow Architectures through the Task Flow Plane," Design, Automation and Test in Europe Conference and Exhibition (DATE), 6 pages.
-* **[In Submission]** **S. Qin** et al., "PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures," ACM Transactions on Architecture and Code Optimization (TACO), 23 pages.
-* **[IEEE HPCC'23]** **S. Qin** et al., "[ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators]([ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators](https://ieeexplore.ieee.org/document/10466951))," IEEE International Conferences on High Performance Computing and Communications (HPCC), Melbourne, Australia, 2023, 9 pages.
+* **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**
+    **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan 
+    *ACM TACO* **[Under Review]**
+* **ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators**
+    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan 
+    *[IEEE HPCC 2023]((https://ieeexplore.ieee.org/document/10466951))*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
 * First Prize in Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2023
