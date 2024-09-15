@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fifth-year Ph.D. student at the [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academy of Sciences, also with the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+Welcome! I am a second-year M.S. student at the [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academy of Sciences, also with the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
 A data-driven personal website
 ======
