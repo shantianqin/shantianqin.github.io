@@ -23,17 +23,21 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**[In Progress] StreamCIM**
-* Dataflow-Driven Scheduling Scheme and Streaming Digital CIM Architecture 
+**[In Progress] StreamCIM: Streaming Digital Computing-in-Memory**
+* Software: dataflow-driven scheduling scheme
+* Hardware: streaming digital CIM architecture
 
-**[In Submission] GEMINI**
-* Semi-Centralized Dynamic Scheduling Scheme and Decoupled Taskflow/Dataflow Architecture
+**[In Submission] GEMINI: Semi-Centralized Dynamic Scheduling**
+* Software: semi-centralized dynamic scheduling scheme 
+* Hardware: decoupled taskflow/dataflow architecture
 
-**[In Submission] PANDA**
-* Distributed Dynamic Scheduling Scheme and Decentralized Dataflow Architecture
+**[In Submission] PANDA: Decentralized Dynamic Scheduling**
+* Software: distributed dynamic scheduling scheme
+* Hardware: decentralized dataflow architecture
 
-**[IEEE HPCC'23] ROMA**
-* Adaptive Data Prefetching Scheme and Reconfigurable On-Chip Memory Architecture
+**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching**
+* Software: adaptive data prefetching scheme 
+* Hardware: reconfigurable on-chip memory architecture
 
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
