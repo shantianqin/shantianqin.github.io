@@ -23,20 +23,20 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**Zhipu AI**    (Mar 2024 - Aug 2024)
-* Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
+**[In Progress] StreamCIM**
+* Dataflow-Driven Scheduling Scheme and Streaming Digital CIM Architecture 
 
-**Alibaba DAMO Academy**    (Jun 2023 - Jan 2024)
-* Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
+**[In Submission] GEMINI**
+* Semi-Centralized Dynamic Scheduling Scheme and Decoupled Taskflow/Dataflow Architecture
 
-**Huawei Hisilicon**    (Oct 2019 - Dec 2019)
-* Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
+**[In Submission] PANDA**
+* Distributed Dynamic Scheduling Scheme and Decentralized Dataflow Architecture
 
-**Duke University**    (Jul 2019 - Sep 2019)
-* Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
+**[IEEE HPCC'23] ROMA**
+* Adaptive Data Prefetching Scheme and Reconfigurable On-Chip Memory Architecture
 
 ## Industry Experiences
-**SmartCo**    (Feb 2023 - Current)  
+**SmartCo**    (Feb. 2023 - Current)  
 * Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
 * Work Overview: Dataflow accelerators and RISC-V processors
   - RTL: Scratchpad Memory and Cache reusable on-chip memory implementation
@@ -56,7 +56,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     *[IEEE HPCC 2023]((https://ieeexplore.ieee.org/document/10466951))*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
-* First Prize in Academic Scholarship, University of Chinese Academy of Sciences (UCAS), 2023
+* First Prize in Academic Scholarship, UCAS, 2023
 * First Prize Scholarship for Outstanding Students (5\%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
