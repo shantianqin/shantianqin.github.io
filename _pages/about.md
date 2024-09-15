@@ -35,12 +35,26 @@ Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
 * **Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span>  
 Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
 
+<!-- * **Zhipu AI** Mar 2024 - Aug 2024   
+    Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
+* **Alibaba DAMO Academy**  
+    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024. -->
+<!-- * **Huawei Hisilicon**  
+    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
+<!-- * **Duke University**  
+    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019.  -->
+
 ## Industry Experiences
 * **SmartCo**<span style="float:right;">Feb 2023 - Current </span>  
 Research intern in Dataflow Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). 
 
 * **AMD**<span style="float:right;">Undergraduate </span>  
-Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin 
+Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
+
+<!-- * **SmartCo** Feb 2023 - Current
+    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
+<!-- * **Duke University**  
+    Research intern in Dataflow Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). Undergraduate  -->
 
 ## Publications
 * **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**
