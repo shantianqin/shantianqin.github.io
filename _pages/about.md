@@ -37,7 +37,7 @@ Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yi
 
 ## Industry Experiences
 * **SmartCo**<span style="float:right;">Feb 2023 - Current </span>  
-Research intern in Dataflow Accelerators and RISC-V Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). 
+Research intern in Dataflow Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). 
 
 * **AMD**<span style="float:right;">Undergraduate </span>  
 Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin 
