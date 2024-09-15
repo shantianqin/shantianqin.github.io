@@ -20,7 +20,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.S.** in Electronic Science and Technology 
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
-* GPA: 89.63/100, First-Prize Scholarship or Outstanding Students (5%, 2021-2022)
+* GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Publications
 * **[In Submission]** **S. Qin** et al., "Towards Efficient Dynamic Scheduling in Dataflow Architectures through the Task Flow Plane," Design, Automation and Test in Europe Conference and Exhibition (DATE), 6 pages.
