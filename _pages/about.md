@@ -42,7 +42,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
 * Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
-* Work Overview: Dataflow accelerators and RISC-V processors
+* Overview: dataflow accelerator and RISC-V processor chip design
   - RTL: Scratchpad Memory and Cache reusable on-chip memory implementation
   - Simulator: Tensor Unit and SIMD/Logic Instructions optimization
   - Runtime: Runtime design for multiple applications dynamic scheduling 
