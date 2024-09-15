@@ -57,11 +57,11 @@ Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo 
     Research intern in Dataflow Processors, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming). Undergraduate  -->
 
 ## Publications
-* **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**
-    **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan 
+* **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**\
+    **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
-* **ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators**
-    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan 
+* **ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators**\
+    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\ 
     *[IEEE HPCC 2023]((https://ieeexplore.ieee.org/document/10466951))*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
