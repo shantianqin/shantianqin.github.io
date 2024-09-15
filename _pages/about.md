@@ -23,38 +23,29 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-* **Zhipu AI**<span style="float:right;">Mar 2024 - Aug 2024 </span>  
+* **Zhipu AI**  Mar 2024 - Aug 2024
 Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
 
-* **Alibaba DAMO Academy**<span style="float:right;">Jun 2023 - Jan 2024 </span>  
+* **Alibaba DAMO Academy**  Jun 2023 - Jan 2024
 Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu.
 
-* **Huawei Hisilicon**<span style="float:right;">Oct 2019 - Dec 2019 </span>  
+* **Huawei Hisilicon**  Oct 2019 - Dec 2019 
 Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao.
 
-* **Duke University**<span style="float:right;">Jul 2019 - Sep 2019 </span>  
+* **Duke University**  Jul 2019 - Sep 2019 
 Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). 
-
-<!-- * **Zhipu AI** Mar 2024 - Aug 2024   
-    Research intern in AI Academy. Mentor: Dr. Guanyu Feng. 
-* **Alibaba DAMO Academy**  
-    Research intern in Computing Technology Lab. Mentor: Dr. Dimin Niu. Jun 2023 - Jan 2024. -->
-<!-- * **Huawei Hisilicon**  
-    Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
-<!-- * **Duke University**  
-    Research intern, working with [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). Jul 2019 - Sep 2019.  -->
 
 ## Industry Experiences
 * **SmartCo**  Feb 2023 - Current </span>  
 Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
-* Work Overview: Dataflow accelerators and RISC-V processors
-* RTL: Scratchpad Memory and Cache reusable on-chip memory implementation
-* Simulator: Tensor Unit and SIMD/Logic Instructions optimization
-* Runtime: Runtime design for multiple applications dynamic scheduling 
+  - Work Overview: Dataflow accelerators and RISC-V processors
+  - RTL: Scratchpad Memory and Cache reusable on-chip memory implementation
+  - Simulator: Tensor Unit and SIMD/Logic Instructions optimization
+  - Runtime: Runtime design for multiple applications dynamic scheduling 
 
 * **AMD**  Undergraduate Intern
 Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
-* Development of hardware-accelerated open-source libraries optimized for Xilinx FPGA and Versal ACAP hardware platforms 
+  - Development of hardware-accelerated open-source libraries optimized for Xilinx FPGA and Versal ACAP hardware platforms 
 
 <!-- * **SmartCo** Feb 2023 - Current
     Research intern in Turing Department. Mentor: Dr. Lin Li and Dr. Heng Liao. Oct 2019 - Dec 2019. -->
