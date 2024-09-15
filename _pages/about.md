@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second-year M.S. student at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the [School of Microelectronics](https://acm.sjtu.edu.cn/home), [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, parallel scheduling, and hardware-software co-design.
+Welcome! I am a second-year M.S. student at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the [School of Microelectronics](https://acm.sjtu.edu.cn/home), [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, and hardware-software co-design.
 
 ## Education
 Sep. 2013 - Jul. 2019: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -27,11 +27,11 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Software: dataflow-driven scheduling scheme
 * Hardware: streaming digital CIM architecture
 
-**[In Submission] GEMINI: Semi-Centralized Dynamic Scheduling**
+**[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
 * Software: semi-centralized dynamic scheduling scheme 
 * Hardware: decoupled taskflow/dataflow architecture
 
-**[In Submission] PANDA: Decentralized Dataflow Architecture**
+**[Under Review] PANDA: Decentralized Dataflow Architecture**
 * Software: distributed dynamic scheduling scheme
 * Hardware: decentralized dataflow architecture
 
