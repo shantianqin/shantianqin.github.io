@@ -12,7 +12,7 @@ Welcome! I am a second-year M.S. student at [Institute of Computing Technology (
 ## Education
 Sep. 2013 - Jul. 2019: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
-* **Ph.D.** in Electronic Science and Technology
+* **M.S.** in Electronic Science and Technology
 * Advisor: [Prof. Dongrui Fan]([https://see-en.tongji.edu.cn/info/1014/1701.htm](https://people.ucas.ac.cn/~fandongrui))
 * GPA: 3.94/4.0
 
