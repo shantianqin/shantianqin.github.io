@@ -35,7 +35,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Software: distributed dynamic scheduling scheme
 * Hardware: decentralized dataflow architecture
 
-**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching**
+**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
 * Software: adaptive data prefetching scheme 
 * Hardware: reconfigurable on-chip memory architecture
 
