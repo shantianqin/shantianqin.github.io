@@ -61,7 +61,7 @@ Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo 
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
 * **ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators**\
-    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\ 
+    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     *[IEEE HPCC 2023]((https://ieeexplore.ieee.org/document/10466951))*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
