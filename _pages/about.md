@@ -67,5 +67,5 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, Latex, Visio, ...
-* Languages: Chinese - Mandarin (Native), English (Fluent), German (Basic Proficiency)
+* Languages: Chinese - Mandarin (Native), English (CET6), German (B1)
 * Interests: Photography, Music, ...
