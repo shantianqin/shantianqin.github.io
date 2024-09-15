@@ -55,9 +55,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
-* **ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators**\
+* ***[ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
-    *[IEEE HPCC 2023]((https://ieeexplore.ieee.org/document/10466951))*, Melbourne, Australia, 2023, 9 pages
+    *IEEE HPCC 2023*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
 * First Prize in Academic Scholarship, UCAS, 2023
