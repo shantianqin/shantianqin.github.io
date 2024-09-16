@@ -7,6 +7,8 @@ redirect_from:
   - /about/
 ---
 
+**INCOMING**
+
 ## **Tradeoff**
 * Accuracy
   - Digital Logic **vs.** Analog Logic
