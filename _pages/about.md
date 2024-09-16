@@ -35,26 +35,26 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - *e.g., Analog CIM Architecture, Digital CIM Architecture, Near-Data Processing (NDP) Architecture*
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
-* Hardware-Software Co-Design
+* ***Hardware-Software Co-Design***
   - Software: semi-centralized dynamic scheduling scheme 
   - Hardware: decoupled taskflow/dataflow microarchitecture
-* **Tradeoff**
+* ***Tradeoff***
   - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
-* Paper Reading List - SOTA Task Scheduling Paradigms
+* ***Paper Reading List - SOTA Task Scheduling Paradigms***
   - *e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
-* Hardware-Software Co-Design
+* ***Hardware-Software Co-Design***
   - Software: distributed dynamic scheduling scheme
   - Hardware: decentralized dataflow microarchitecture
 
 **[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
-* Hardware-Software Co-Design
+* ***Hardware-Software Co-Design***
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
 * **Tradeoff**
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* Paper Reading List - SOTA On-chip Memory Paradigms
+* ***Paper Reading List - SOTA On-chip Memory Paradigms***
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
 ## Industry Experiences
