@@ -27,9 +27,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Software: dataflow-driven scheduling scheme
 * Hardware: streaming digital CIM microarchitecture
 * Trade-off:
-  - Accuracy: **Digital** versus Analog Arichitecture
-  - Efficiency: **CIM**  versus  Von Neumann Architecture
-  - Flexibility: **Dataflow** versus  Von Neumann Architecture
+  - Accuracy: Digital Arichitecture **versus** Analog Arichitecture
+  - Efficiency: Computing-in-Memory Arichitecture **versus** Von Neumann Architecture
+  - Flexibility: Dataflow Arichitecture **versus** Von Neumann Architecture
 * SOTA On-chip Memory Paradigms - Paper Reading List
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
