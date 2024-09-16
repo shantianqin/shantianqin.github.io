@@ -28,6 +28,6 @@ redirect_from:
 ***Digital CIM Architecture (mainly from [Prof. Fengbin Tu's Group](https://fengbintu.github.io/))***
 * **[IEEE JSSC'23]** F. Tu et al., "ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration," in *IEEE JSSC*, vol. 58, no. 1, pp. 243-255, 2023.
 
-***Near-Data Processing (NDP) Architecture (mainly from [Prof. Ming Gao's Group](https://people.iiis.tsinghua.edu.cn/~gaomy/))***
+***Near-Data Processing (NDP) Architecture (mainly from [Prof. Mingyu Gao's Group](https://people.iiis.tsinghua.edu.cn/~gaomy/))***
 * **[ASPLOS'23]** B. Tian et al., “ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing,” in *ASPLOS*, 2023, pp. 3–17.
 * **[ISCA'24]** B. Tian et al., “NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures,” in *ISCA*, 2024, pp. 628-643.
