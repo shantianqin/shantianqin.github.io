@@ -22,7 +22,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**[In Progress] StreamCIM: Streaming Digital Computing-in-Memory Architecture**
+**StreamCIM: Streaming Digital Computing-in-Memory Architecture [In Progress]**
 * *Hardware-Software Co-Design*
   - Software: dataflow-driven scheduling scheme
   - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
@@ -33,7 +33,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * *[Paper Reading List - SOTA CIM Paradigms](https://shantianqin.github.io/PRL_CIM)*
   - *e.g., Analog CIM Architecture, Digital CIM Architecture, Near-Data Processing (NDP) Architecture*
 
-**[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
+**GEMINI: Semi-Centralized Dynamic Scheduling [Under Review]**
 * *Hardware-Software Co-Design*
   - Software: semi-centralized dynamic scheduling scheme 
   - Hardware: decoupled taskflow/dataflow microarchitecture
@@ -42,12 +42,12 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * *[Paper Reading List - SOTA Task Scheduling Paradigms](https://shantianqin.github.io/PRL_Scheduling)*
   - *e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
 
-**[Under Review] PANDA: Decentralized Dataflow Architecture**
+**PANDA: Decentralized Dataflow Architecture [Under Review]**
 * *Hardware-Software Co-Design*
   - Software: distributed dynamic scheduling scheme
   - Hardware: decentralized dataflow microarchitecture
 
-**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-Chip Memory**
+**ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching [IEEE HPCC'23]**
 * *Hardware-Software Co-Design*
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
