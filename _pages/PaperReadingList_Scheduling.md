@@ -16,10 +16,10 @@ redirect_from:
 * **[TPDS'21]** L. Chen, J. Zhu, Y. Deng et al., “An Elastic Task Scheduling Scheme on Coarse Grained Reconfigurable Architectures,” in *IEEE TPDS*, vol. 32, no. 12, pp. 3066–3080, 2021. 
 
 ## **SOTA Task Scheduling Paradigms**
-* **Static Scheduling**
+* ***Static Scheduling***
 * ***Incoming***
 
-* **Dynamic Scheduling**
+* ***Dynamic Scheduling***
 * ***Incoming***
 
 * **Dataflow-riven Scheduling**
