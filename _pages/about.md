@@ -26,7 +26,10 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **[In Progress] StreamCIM: Streaming Digital Computing-in-Memory Architecture**
 * Software: dataflow-driven scheduling scheme
 * Hardware: streaming digital CIM microarchitecture
-* Trade-off: Accuracy (**Digital**/Analog Arichitecture) vesus Efficiency (**CIM**/Von Neumann architecture) vesus Flexibility (**Dataflow**/Von Neumann architecture)
+* Trade-off:
+  - Accuracy: **Digital** versus Analog Arichitecture
+  - Efficiency: **CIM**  versus  Von Neumann Architecture
+  - Flexibility: **Dataflow** versus  Von Neumann Architecture
 * SOTA On-chip Memory Paradigms - Paper Reading List
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
