@@ -71,6 +71,6 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Interests: Photography, Music, ...
 
 ## Contact
-Email: qinshantian23s at ict dot ac dot cn
+Email: qinshantian23s [at] ict [dot] ac [dot] cn
 <br/><br/>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&cl=ffffff&w=a"></script>
