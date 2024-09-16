@@ -15,7 +15,7 @@ redirect_from:
 * **[ISCA'23]** X-Cache.
 * **[IEEE JSSC'22]** BUFFETS.
 
-## **SOTA CIM Paradigms**
+## **SOTA On-Chip Memory Paradigms**
 ***Reconfigurable Cache***
 * **[DAC'23]** X. Zhang et al., “FSPA: An FeFET-based Sparse Matrix-Dense Vector Multiplication Accelerator,” in *DAC*, 2023, pp. 1-6.
 * **[ICCAD'23]** B. Long et al., “Meltrix: A RRAM-Based Polymorphic Architecture Enhanced by Function Synthesis,” in *ICCAD*, 2023, pp. 1-9.
