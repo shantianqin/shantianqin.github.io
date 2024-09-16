@@ -48,13 +48,13 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Software: distributed dynamic scheduling scheme
   - Hardware: decentralized dataflow microarchitecture
 
-**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
+**[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-Chip Memory**
 * *Hardware-Software Co-Design*
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
 * *Tradeoff*
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* *[Paper Reading List - SOTA On-chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*
+* *[Paper Reading List - SOTA On-Chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
 ## Industry Experiences
@@ -73,7 +73,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * ***PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
-* ***[ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
+* ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     *IEEE HPCC 2023*, Melbourne, Australia, 2023, 9 pages
 
