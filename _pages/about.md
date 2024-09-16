@@ -57,8 +57,6 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * *Paper Reading List - SOTA On-chip Memory Paradigms*
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
-<img align="left" width="100%" src="https://github.com/shantianqin/shantianqin.github.io/blob/master/images/ROMA.jpg">
-
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
 * Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
