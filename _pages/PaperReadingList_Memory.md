@@ -12,20 +12,20 @@ redirect_from:
 
 ## **Classification Methodology References**
 
-* **[ISCA'22]** X-Cache.
-* **[ASPLOS'19]** BUFFETS.
+* **[ASPLOS'19]** M. Pellauer, Y. S. Shao, J. Clemons et al., "Buffets: An efficient and composable storage idiom for explicit decoupled data orchestration," in *ASPLOS*, 2019, pp. 137-151.
+* **[ISCA'22]** A. Sedaghati, M. Hakimi, R. Hojabr et al., "X-cache: a modular architecture for domain-specific caches," in *ISCA*, 2022, pp. 396-409.
 
 ## **SOTA On-Chip Memory Paradigms**
 ***Reconfigurable Cache***
-* **[ISCA'17]** Jenga.
-* **[MICRO'18]** Hotpads.
+* **[ISCA'17]** P. A. Tsai, N. Beckmann, and D. Sanchez, "Jenga: Software-defined cache hierarchies," in *ISCA*, 2017, pp. 652-665.
+* **[MICRO'18]** P. A. Tsai, Y. L. Gan, and D. Sanchez, "Rethinking the memory hierarchy for modern languages," in *MICRO*, 2018, pp. 203-216.
 
 ***Globally Addressed SPM***
-* **[ISCA'15]** Stash.
+* **[ISCA'15]** R. Komuravelli, M. D. Sinclair, J. Alsop et al., "Stash: Have your scratchpad and cache it too," in *ISCA*, 2015, pp. 707-719.
 
 ***Decoupled Access/Execute (DAE)***
-* **[MICRO'15]** DeSC.
-* **[MICRO'16]** PDAE.
+* **[MICRO'15]** T. J. Ham, J. L. Aragón, and M. Martonosi, "DeSC: Decoupled supply-compute communication management for heterogeneous architectures," in *MICRO*, 2015, pp. 191-203.
+* **[MICRO'16]** T. Chen et al., "Efficient data supply for hardware accelerators with prefetching and access/execute decoupling," in *MICRO*, 2016, pp. 1-12.
 
 ***Stream Prefetching (mainly from [Prof. Tony Nowatzki's Group](https://web.cs.ucla.edu/~tjn/))***
 * **[ISCA'17]** T. Nowatzki, V. Gangadhar, N. Ardalani, and K. Sankaralingam, "Stream-dataflow acceleration," in *ISCA*, 2017, pp. 416-429.
