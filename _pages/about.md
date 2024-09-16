@@ -24,28 +24,34 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Research Experiences
 **[In Progress] StreamCIM: Streaming Digital Computing-in-Memory Architecture**
-* Software: dataflow-driven scheduling scheme
-* Hardware: streaming digital CIM microarchitecture
-* Trade-off:
+* Hardware-Software Co-Design
+  - Software: dataflow-driven scheduling scheme
+  - Hardware: streaming digital CIM microarchitecture
+* Trade-off
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
 * SOTA On-chip Memory Paradigms - Paper Reading List
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
-* Software: semi-centralized dynamic scheduling scheme 
-* Hardware: decoupled taskflow/dataflow microarchitecture
-* Trade-off: Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
+* Hardware-Software Co-Design
+  - Software: semi-centralized dynamic scheduling scheme 
+  - Hardware: decoupled taskflow/dataflow microarchitecture
+* Trade-off
+  - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
 * SOTA Task Scheduling Paradigms - Paper Reading List
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
-* Software: distributed dynamic scheduling scheme
-* Hardware: decentralized dataflow microarchitecture
+* Hardware-Software Co-Design
+  - Software: distributed dynamic scheduling scheme
+  - Hardware: decentralized dataflow microarchitecture
 
 **[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
-* Software: adaptive data prefetching scheme 
-* Hardware: reconfigurable on-chip memory microarchitecture
-* Trade-off: ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
+* Hardware-Software Co-Design
+  - Software: adaptive data prefetching scheme 
+  - Hardware: reconfigurable on-chip memory microarchitecture
+* Trade-off
+  - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 * SOTA On-chip Memory Paradigms - Paper Reading List
 
 ## Industry Experiences
