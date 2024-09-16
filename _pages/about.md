@@ -30,8 +30,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
-* *[Paper Reading List - SOTA CIM Paradigms](https://shantianqin.github.io/PRL_CIM)*
-  - *e.g., Analog CIM Architecture, Digital CIM Architecture, Near-Data Processing (NDP) Architecture*
+* *[Paper Reading List - SOTA CIM Paradigms](https://shantianqin.github.io/PRL_CIM)*\
+*e.g., Analog CIM Architecture, Digital CIM Architecture, Near-Data Processing (NDP) Architecture*
 
 **GEMINI: Semi-Centralized Dynamic Scheduling [Under Review]**
 * *Hardware-Software Co-Design*
