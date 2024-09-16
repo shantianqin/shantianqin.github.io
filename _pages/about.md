@@ -55,7 +55,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * *Tradeoff*
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 * *Paper Reading List - SOTA On-chip Memory Paradigms*
-  - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*\
+  - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
+
 ![image](https://github.com/shantianqin/shantianqin.github.io/blob/master/images/ROMA.jpg)
 
 ## Industry Experiences
