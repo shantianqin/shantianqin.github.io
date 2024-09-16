@@ -12,19 +12,20 @@ redirect_from:
 
 ## **Classification Methodology References**
 
-* **[ISCA'23]** X-Cache.
-* **[IEEE JSSC'22]** BUFFETS.
+* **[ISCA'22]** X-Cache.
+* **[ASPLOS'19]** BUFFETS.
 
 ## **SOTA On-Chip Memory Paradigms**
 ***Reconfigurable Cache***
-* **[DAC'23]** X. Zhang et al., “FSPA: An FeFET-based Sparse Matrix-Dense Vector Multiplication Accelerator,” in *DAC*, 2023, pp. 1-6.
-* **[ICCAD'23]** B. Long et al., “Meltrix: A RRAM-Based Polymorphic Architecture Enhanced by Function Synthesis,” in *ICCAD*, 2023, pp. 1-9.
+* **[DAC'23]** Jenga.
+* **[ICCAD'23]** Hotpads.
 
 ***Globally Addressed SPM***
-* **[IEEE JSSC'23]** F. Tu et al., "ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration," in *IEEE JSSC*, vol. 58, no. 1, pp. 243-255, 2023.
+* **[ISCA'15]** Stash.
 
 ***Decoupled Access/Execute (DAE)***
-* **[IEEE JSSC'23]** F. Tu et al., "ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration," in *IEEE JSSC*, vol. 58, no. 1, pp. 243-255, 2023.
+* **[DeSC'23]** Jenga.
+* **[PDAE'23]** Hotpads.
 
 ***Stream Prefetching (mainly from [Prof. Tony Nowatzki's Group](https://web.cs.ucla.edu/~tjn/))***
 * **[ASPLOS'23]** B. Tian et al., “ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing,” in *ASPLOS*, 2023, pp. 3–17.
