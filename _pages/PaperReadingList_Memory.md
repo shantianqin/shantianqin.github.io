@@ -17,16 +17,19 @@ redirect_from:
 
 ## **SOTA On-Chip Memory Paradigms**
 ***Reconfigurable Cache***
-* **[DAC'23]** Jenga.
-* **[ICCAD'23]** Hotpads.
+* **[ISCA'17]** Jenga.
+* **[MICRO'18]** Hotpads.
 
 ***Globally Addressed SPM***
 * **[ISCA'15]** Stash.
 
 ***Decoupled Access/Execute (DAE)***
-* **[DeSC'23]** Jenga.
-* **[PDAE'23]** Hotpads.
+* **[MICRO'15]** DeSC.
+* **[MICRO'16]** PDAE.
 
 ***Stream Prefetching (mainly from [Prof. Tony Nowatzki's Group](https://web.cs.ucla.edu/~tjn/))***
-* **[ASPLOS'23]** B. Tian et al., “ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing,” in *ASPLOS*, 2023, pp. 3–17.
-* **[ISCA'24]** B. Tian et al., “NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures,” in *ISCA*, 2024, pp. 628-643.
+* **[ISCA'17]** T. Nowatzki, V. Gangadhar, N. Ardalani, and K. Sankaralingam, "Stream-dataflow acceleration," in \textit{ISCA}, 2017, pp. 416-429.
+* **[ISCA'19]** \bibitem{SSP} Z. Wang and T. Nowatzki, "Stream-based memory access specialization for general purpose processors," in \textit{ISCA}, 2019, pp. 736-749.
+* **[ISCA'20]** J. Weng, S. Liu, V. Dadu et al., "Dsagen: Synthesizing programmable spatial accelerators," in \textit{ISCA}, 2020, pp. 268-281.
+* **[HPCA'22]** Z. Wang, J. Weng, S. Liu et al., "Near-Stream Computing: General and Transparent Near-Cache Acceleration," in \textit{HPCA}, 2022, pp. 331-345.
+* **[ASPLOS'23]** Z. Wang et al., "Infinity stream: Portable and programmer-friendly in-/near-memory fusion," in \textit{ASPLOS}, 2023, pp. 359-375.
