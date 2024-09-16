@@ -39,8 +39,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: decoupled taskflow/dataflow microarchitecture
 * *Tradeoff*
   - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
-* *[Paper Reading List - SOTA Task Scheduling Paradigms](https://shantianqin.github.io/PRL_Scheduling)*
-  - *e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
+* *[Paper Reading List - SOTA Task Scheduling Paradigms](https://shantianqin.github.io/PRL_Scheduling)*\
+*e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
 
 **PANDA: Decentralized Dataflow Architecture [Under Review]**
 * *Hardware-Software Co-Design*
@@ -53,8 +53,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: reconfigurable on-chip memory microarchitecture
 * *Tradeoff*
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* *[Paper Reading List - SOTA On-Chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*
-  - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
+* *[Paper Reading List - SOTA On-Chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*\
+*e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
 ## Industry Experiences
 **SmarCo**    (Feb. 2023 - Current)  
