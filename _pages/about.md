@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the School of Microelectronics, [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, computing-in-memory architecture, and hardware-software co-design.
+Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the School of Microelectronics, [Tongji University](https://www.sjtu.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
 
 ## Education
   Sep. 2023 - Current: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -73,4 +73,4 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## Contact
 Email: qinshantian23s at ict dot ac dot cn
 <br/><br/>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&cl=ffffff&w=a"></script>
