@@ -7,11 +7,6 @@ redirect_from:
   - /about/
 ---
 
-* *Tradeoff*
-  - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* *[Paper Reading List - SOTA On-Chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*
-  - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
-
 ## **Tradeoff**
 * ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 
