@@ -11,7 +11,8 @@ redirect_from:
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
-## **Paper Reading List - SOTA CIM Paradigms**
+## **Classification Methodology References**
+## **SOTA CIM Paradigms**
   - *Analog CIM Architecture*
   - *Digital CIM Architecture*
   - *Near-Data Processing (NDP) Architecture*
