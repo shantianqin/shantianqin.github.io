@@ -69,3 +69,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, Latex, Visio, ...
 * Languages: Chinese - Mandarin (Native), English (CET6), German (B1)
 * Interests: Photography, Music, ...
+
+## Contact
+Email: qinshantian23s at ict dot ac dot cn
+<br/><br/>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
