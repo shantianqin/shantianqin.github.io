@@ -31,7 +31,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
-* *[Paper Reading List - SOTA CIM Paradigms](https://shantianqin.github.io/PRL_Memory)*
+* *[Paper Reading List - SOTA CIM Paradigms](https://shantianqin.github.io/PRL_CIM)*
   - *e.g., Analog CIM Architecture, Digital CIM Architecture, Near-Data Processing (NDP) Architecture*
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
@@ -40,7 +40,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: decoupled taskflow/dataflow microarchitecture
 * *Tradeoff*
   - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
-* *Paper Reading List - SOTA Task Scheduling Paradigms*
+* *[Paper Reading List - SOTA Task Scheduling Paradigms](https://shantianqin.github.io/PRL_Scheduling)*
   - *e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
@@ -54,7 +54,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: reconfigurable on-chip memory microarchitecture
 * *Tradeoff*
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* *Paper Reading List - SOTA On-chip Memory Paradigms*
+* *[Paper Reading List - SOTA On-chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
 ## Industry Experiences
