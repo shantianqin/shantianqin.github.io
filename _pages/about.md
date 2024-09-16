@@ -52,7 +52,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## Publications
-* **PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures**\
+* ***PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
 * ***[ROMA: A Reconfigurable On-chip Memory Architecture for Multi-core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
