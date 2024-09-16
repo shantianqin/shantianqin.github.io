@@ -52,7 +52,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * ***Hardware-Software Co-Design***
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
-* **Tradeoff**
+* ***Tradeoff***
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 * ***Paper Reading List - SOTA On-chip Memory Paradigms***
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
