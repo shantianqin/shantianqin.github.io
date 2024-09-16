@@ -17,10 +17,12 @@ redirect_from:
 
 ## **SOTA Task Scheduling Paradigms**
 ***Static Scheduling***
-* ***Incoming***
-
-***Dynamic Scheduling***
-* ***Incoming***
+* ***[ISCA'17]*** R. Prabhakar, Y. Zhang, D. Koeplinger et al., “Plasticine: A reconfigurable architecture for parallel patterns,” in *ISCA*, 2017, pp. 389–402.
 
 ***Dataflow-riven Scheduling***
-* ***Incoming***
+* **[ISCA'13]** A. Parashar et al., “Triggered instructions: A control paradigm for spatially-programmed architectures,” in *ISCA*, 2013, pp. 142–153.
+
+***Dynamic Scheduling***
+* **[MICRO'18]** T. Chen, S. Srinath, C. Batten and G. E. Suh, “An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware,” in *MICRO*, 2018, pp. 55-67.
+* **[TPDS'21]** L. Chen, J. Zhu, Y. Deng et al., “An Elastic Task Scheduling Scheme on Coarse Grained Reconfigurable Architectures,” in *IEEE TPDS*, vol. 32, no. 12, pp. 3066–3080, 2021.
+* **[HPCA'22]** C. Tan et al., "DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs," in *HPCA*, 2022, pp. 304-316.
