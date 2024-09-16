@@ -57,7 +57,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
 ## Industry Experiences
-**SmartCo**    (Feb. 2023 - Current)  
+**SmarCo**    (Feb. 2023 - Current)  
 * Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
 * Overview: dataflow accelerator and RISC-V processor chip design
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
