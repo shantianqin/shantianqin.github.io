@@ -31,7 +31,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
-* SOTA CIM Paradigms - Paper Reading List
+* SOTA CIM Paradigms (Analog CIM, Digital CIM, NDP) - Paper Reading List
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
 * Hardware-Software Co-Design
@@ -39,7 +39,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: decoupled taskflow/dataflow microarchitecture
 * Tradeoff
   - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
-* SOTA Task Scheduling Paradigms - Paper Reading List
+* SOTA Task Scheduling Paradigms (Static / Dyanmic / Dataflow-Driven Scheduling) - Paper Reading List
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
 * Hardware-Software Co-Design
@@ -52,7 +52,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: reconfigurable on-chip memory microarchitecture
 * Tradeoff
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-* SOTA On-chip Memory Paradigms - Paper Reading List
+* SOTA On-chip Memory Paradigms (Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching) - Paper Reading List
 
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
