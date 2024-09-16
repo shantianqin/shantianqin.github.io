@@ -69,7 +69,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
-## Publications
+## Selected Publications
 * ***PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
