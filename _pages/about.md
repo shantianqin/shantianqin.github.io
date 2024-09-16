@@ -26,10 +26,14 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **[In Progress] StreamCIM: Streaming Digital Computing-in-Memory Architecture**
 * Software: dataflow-driven scheduling scheme
 * Hardware: streaming digital CIM microarchitecture
+* Trade-off: Accuracy (**Digital**/Analog Arichitecture) vesus Efficiency (**CIM**/Von Neumann architecture) vesus Flexibility (**Dataflow**/Von Neumann architecture)
+* SOTA On-chip Memory Paradigms - Paper Reading List
 
 **[Under Review] GEMINI: Semi-Centralized Dynamic Scheduling**
 * Software: semi-centralized dynamic scheduling scheme 
 * Hardware: decoupled taskflow/dataflow microarchitecture
+* Trade-off: Static Scheduling (Software Compile Complexit) vesus Dyanmic Scheduling (Hardware Architecture Flexibility)
+* SOTA Task Scheduling Paradigms - Paper Reading List
 
 **[Under Review] PANDA: Decentralized Dataflow Architecture**
 * Software: distributed dynamic scheduling scheme
@@ -38,6 +42,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **[IEEE HPCC'23] ROMA: Adaptive Data Prefetching and Reconfigurable On-chip Memory**
 * Software: adaptive data prefetching scheme 
 * Hardware: reconfigurable on-chip memory microarchitecture
+* Trade-off: ScratchPad Meony (Domain-Specific Accelerate) vesus Cache (General-Purpose Process)
+* SOTA On-chip Memory Paradigms - Paper Reading List
 
 ## Industry Experiences
 **SmartCo**    (Feb. 2023 - Current)  
