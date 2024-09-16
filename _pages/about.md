@@ -27,7 +27,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Hardware-Software Co-Design
   - Software: dataflow-driven scheduling scheme
   - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
-* Tradeoff
+* **Tradeoff**
   - Accuracy: Digital Logic **vs.** Analog Logic
   - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
   - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
@@ -38,7 +38,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Hardware-Software Co-Design
   - Software: semi-centralized dynamic scheduling scheme 
   - Hardware: decoupled taskflow/dataflow microarchitecture
-* Tradeoff
+* **Tradeoff**
   - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
 * Paper Reading List - SOTA Task Scheduling Paradigms
   - *e.g., Static Scheduling, Dyanmic Scheduling, Dataflow-Driven Scheduling*
@@ -52,7 +52,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Hardware-Software Co-Design
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
-* Tradeoff
+* **Tradeoff**
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 * Paper Reading List - SOTA On-chip Memory Paradigms
   - *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
