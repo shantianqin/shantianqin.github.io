@@ -2,6 +2,7 @@
 layout: archive
 title: "Paper Reading List - SOTA CIM Paradigms"
 permalink: /PRL_CIM/
+published: false
 author_profile: true
 redirect_from:
   - /about/
