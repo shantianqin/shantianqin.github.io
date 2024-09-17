@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
+Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design. Please feel free to contact me.
 
 ## Education
   Sep. 2023 - Current: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -79,7 +79,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, Latex, Visio, ...
 * Languages: Chinese - Mandarin (Native), English (CET6), German (B1)
-* Interests: Photography, Music, ...
+* Interests: Photography, Music, Travelling, ...
 
 ## Contact
 Email: qinshantian23s [at] ict [dot] ac [dot] cn
