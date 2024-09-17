@@ -2,6 +2,7 @@
 layout: archive
 title: "Paper Reading List - SOTA On-Chip Memory Paradigms"
 permalink: /PRL_Memory/
+published: false
 author_profile: true
 redirect_from:
   - /about/
