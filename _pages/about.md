@@ -14,7 +14,7 @@ Welcome! I am  currently a post-graduate at [Institute of Computing Technology (
 * **State Key Laboratory of Processors**
 * **M.S.** in Computer Science and Technology
 * Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
-* GPA: 3.94/4.0
+* GPA: 3.94/4
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
