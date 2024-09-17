@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
 
-# <span style="color:#4682B4">Education</span>
+## Education
   Sep. 2023 - Current: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **M.S.** in Computer Science and Technology
@@ -21,7 +21,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **B.S.** in Electronic Science and Technology 
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
-# Research Experiences
+## Research Experiences
 **StreamCIM: Streaming Digital Computing-in-Memory Architecture [In Progress]**
 * *Hardware-Software Co-Design*
   - Software: dataflow-driven scheduling scheme
@@ -56,7 +56,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * *[Paper Reading List - SOTA On-Chip Memory Paradigms](https://shantianqin.github.io/PRL_Memory)*\
 *e.g., Reconfigurable Cache, Globally Addressed SPM, Decoupled Access/Execute, Stream Prefetching*
 
-# Industry Experiences
+## Industry Experiences
 **SmarCo**    (Feb. 2023 - Current)  
 * Research intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming).
 * Overview: dataflow accelerator and RISC-V processor chip design
@@ -68,7 +68,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
-# Selected Publications
+## Selected Publications
 * ***PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
     **[Under Review]** *ACM TACO*
@@ -76,18 +76,18 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     *IEEE HPCC 2023*, Melbourne, Australia, 2023, 9 pages
 
-# Honors and Awards
+## Honors and Awards
 * First Prize in Academic Scholarship, UCAS, 2023
 * First Prize Scholarship for Outstanding Students (5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
   
-# Skills and Interests
+## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, Latex, Visio, ...
 * Languages: Chinese - Mandarin (Native), English (CET6), German (B1)
 * Interests: Photography, Music, ...
 
-# Contact
+## Contact
 Email: qinshantian23s [at] ict [dot] ac [dot] cn
 <br/><br/>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&cl=ffffff&w=a"></script>
