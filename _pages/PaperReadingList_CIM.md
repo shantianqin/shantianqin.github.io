@@ -15,7 +15,7 @@ author_profile: true
 
 ## **Classification Methodology References**
 
-* **[Nature Electronics'23]** Z. Sun, S. Kvatinsky, X. Si et al., "[A full spectrum of computing-in-memory technologies](https://doi.org/10.1038/s41928-023-01053-4)," in *Nature Electronics*, vol. 6, no. 11, pp. 823–835, 2023.
+* **[Nature Electronics'23]** Z. Sun, S. Kvatinsky, X. Si et al., "**[A full spectrum of computing-in-memory technologies](https://doi.org/10.1038/s41928-023-01053-4)**," in *Nature Electronics*, vol. 6, no. 11, pp. 823–835, 2023.
 * **[IEEE JSSC'23]** F. Tu et al., "ReDCIM: Reconfigurable Digital Computing- In -Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration," in *IEEE JSSC*, vol. 58, no. 1, pp. 243-255, 2023.
 
 ## **SOTA CIM Paradigms**
