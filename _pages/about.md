@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Before joining ICT, I obtained a bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
 
-## <span style="color:#4682B4">Education</span>
+# <span style="color:#4682B4">Education</span>
   Sep. 2023 - Current: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **M.S.** in Computer Science and Technology
