@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: default
 title: "Paper Reading List - SOTA CIM Paradigms"
 permalink: /PRL_CIM/
 author_profile: true
 redirect_from:
-  - /about/
+  - /PRL_CIM/
 ---
 
 ## **Tradeoff**
