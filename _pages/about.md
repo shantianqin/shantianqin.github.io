@@ -10,7 +10,7 @@ redirect_from:
 Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
 
 ## Education
-  Sep. 2023 - Current: **Institute of Computing Technology, Chinese Academy of Sciences**
+  Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **M.S.** in Computer Science and Technology
 * Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
@@ -51,7 +51,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
 
 ## Industry Experiences
-**SmarCo**    (Feb. 2023 - Current)  
+**SmarCo**    (Feb. 2023 - Present)  
 * Research intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: dataflow accelerator and RISC-V processor chip design
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
