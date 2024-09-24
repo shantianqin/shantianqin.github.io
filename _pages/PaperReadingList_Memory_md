@@ -1,0 +1,36 @@
+---
+layout: archive
+title: "Paper Reading List - SOTA On-Chip Memory Paradigms"
+permalink: /PRL_Memory/
+published: false
+author_profile: true
+redirect_from:
+  - /about/
+---
+
+## **Tradeoff**
+* ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
+
+## **Classification Methodology References**
+
+* **[ASPLOS'19]** M. Pellauer, Y. S. Shao, J. Clemons et al., "Buffets: An efficient and composable storage idiom for explicit decoupled data orchestration," in *ASPLOS*, 2019, pp. 137-151.
+* **[ISCA'22]** A. Sedaghati, M. Hakimi, R. Hojabr et al., "X-cache: a modular architecture for domain-specific caches," in *ISCA*, 2022, pp. 396-409.
+
+## **SOTA On-Chip Memory Paradigms**
+***Reconfigurable Cache***
+* **[ISCA'17]** P. A. Tsai, N. Beckmann, and D. Sanchez, "Jenga: Software-defined cache hierarchies," in *ISCA*, 2017, pp. 652-665.
+* **[MICRO'18]** P. A. Tsai, Y. L. Gan, and D. Sanchez, "Rethinking the memory hierarchy for modern languages," in *MICRO*, 2018, pp. 203-216.
+
+***Globally Addressed SPM***
+* **[ISCA'15]** R. Komuravelli, M. D. Sinclair, J. Alsop et al., "Stash: Have your scratchpad and cache it too," in *ISCA*, 2015, pp. 707-719.
+
+***Decoupled Access/Execute (DAE)***
+* **[MICRO'15]** T. J. Ham, J. L. Aragón, and M. Martonosi, "DeSC: Decoupled supply-compute communication management for heterogeneous architectures," in *MICRO*, 2015, pp. 191-203.
+* **[MICRO'16]** T. Chen et al., "Efficient data supply for hardware accelerators with prefetching and access/execute decoupling," in *MICRO*, 2016, pp. 1-12.
+
+***Stream Prefetching (mainly from [Prof. Tony Nowatzki's Group](https://web.cs.ucla.edu/~tjn/))***
+* **[ISCA'17]** T. Nowatzki, V. Gangadhar, N. Ardalani, and K. Sankaralingam, "Stream-dataflow acceleration," in *ISCA*, 2017, pp. 416-429.
+* **[ISCA'19]** Z. Wang and T. Nowatzki, "Stream-based memory access specialization for general purpose processors," in *ISCA*, 2019, pp. 736-749.
+* **[ISCA'20]** J. Weng, S. Liu, V. Dadu et al., "Dsagen: Synthesizing programmable spatial accelerators," in *ISCA*, 2020, pp. 268-281.
+* **[HPCA'22]** Z. Wang, J. Weng, S. Liu et al., "Near-Stream Computing: General and Transparent Near-Cache Acceleration," in *HPCA*, 2022, pp. 331-345.
+* **[ASPLOS'23]** Z. Wang et al., "Infinity stream: Portable and programmer-friendly in-/near-memory fusion," in *ASPLOS*, 2023, pp. 359-375.
