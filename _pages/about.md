@@ -36,7 +36,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Software: semi-centralized dynamic scheduling scheme 
   - Hardware: decoupled taskflow/dataflow microarchitecture
 * *Tradeoff*
-  - Static Scheduling (Software Compile Complexit) **vs.** Dyanmic Scheduling (Hardware Architecture Flexibility)
+  - Static Scheduling (Software Compile Complexit) **vs.** Dynamic Scheduling (Hardware Architecture Flexibility)
 
 **PANDA: Decentralized Dataflow Architecture [Under Review]**
 * *Hardware-Software Co-Design*
