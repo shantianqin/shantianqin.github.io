@@ -22,19 +22,15 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**StreamCIM: Streaming Digital Computing-in-Memory Architecture [In Progress]**
+**Digital Computing-in-Memory Architecture [In Progress]**
 * *Hardware-Software Co-Design*
-  - Software: dataflow-driven scheduling scheme
-  - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
 * *Tradeoff*
-  - Accuracy: Digital Logic **vs.** Analog Logic
-  - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
-  - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
+  - Accuracy
+  - Efficiency
+  - Flexibility
 
-**GEMINI: Semi-Centralized Dynamic Scheduling [Under Review]**
+**Dynamic Scheduling Ideal Paradigm [Under Review]**
 * *Hardware-Software Co-Design*
-  - Software: semi-centralized dynamic scheduling scheme 
-  - Hardware: decoupled taskflow/dataflow microarchitecture
 * *Tradeoff*
   - Static Scheduling (Software Compile Complexit) **vs.** Dynamic Scheduling (Hardware Architecture Flexibility)
 
