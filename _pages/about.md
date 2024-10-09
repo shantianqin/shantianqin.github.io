@@ -59,9 +59,6 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## Selected Publications
-* ***PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures***\
-    **S. Qin**, W. Li, Z. Fan, Z. Wang, X. An, X. Ye, D. Fan\
-    **[Under Review]** *ACM TACO*
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     *IEEE HPCC 2023*, Melbourne, Australia, 2023, 9 pages
