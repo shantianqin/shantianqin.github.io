@@ -32,12 +32,12 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **Dynamic Scheduling Ideal Paradigm [Under Review]**
 * *Hardware-Software Co-Design*
 * *Tradeoff*
-  - Static Scheduling (Software Compile Complexit) **vs.** Dynamic Scheduling (Hardware Architecture Flexibility)
 
-**PANDA: Decentralized Dataflow Architecture [Under Review]**
+**Decentralized Dataflow Architecture [Under Review]**
 * *Hardware-Software Co-Design*
   - Software: distributed dynamic scheduling scheme
   - Hardware: decentralized dataflow microarchitecture
+* *Tradeoff*
 
 **ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching [IEEE HPCC'23]**
 * *Hardware-Software Co-Design*
