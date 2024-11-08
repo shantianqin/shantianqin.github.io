@@ -10,14 +10,14 @@ redirect_from:
 Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), Chinese Academy of Sciences (CAS), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). I am also fortunate to be mentored by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests mainly lie in reconfigurable dataflow architecture, digital computing-in-memory architecture, and hardware-software co-design.
 
 ## Education
-  Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
-* **State Key Laboratory of Processors**
+  Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)**
+* **State Key Laboratory of Processors (处理器芯片全国重点实验室)**
 * **M.S.** in Computer Science and Technology
 * Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
 * GPA: 3.94/4
 
-Sep. 2019 - Jul. 2023: **Tongji University**
-* **National Demonstration School of Microelectronics**
+Sep. 2019 - Jul. 2023: **Tongji University (同济大学)**
+* **National Demonstration School of Microelectronics (国家示范性微电子学院)**
 * **B.E.** in Electronic Science and Technology
 * * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
