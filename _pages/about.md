@@ -24,16 +24,16 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Research Experiences
 **Digital Computing-in-Memory Architecture for Multimodal Transformer [Under Review]**
-* *Hardware-Software Co-Design*
-* *Tradeoff*
+* *Hardware-Software Co-Design [Coming Soon]*
+* *Tradeoff [Coming Soon]*
 
 **Dynamic Scheduling Ideal Paradigm [Under Review]**
-* *Hardware-Software Co-Design*
-* *Tradeoff*
+* *Hardware-Software Co-Design [Coming Soon]*
+* *Tradeoff [Coming Soon]*
 
 **Decentralized Dataflow Architecture [Under Review]**
-* *Hardware-Software Co-Design*
-* *Tradeoff*
+* *Hardware-Software Co-Design [Coming Soon]*
+* *Tradeoff [Coming Soon]*
 
 **ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching [IEEE HPCC'23]**
 * *Hardware-Software Co-Design*
