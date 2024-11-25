@@ -23,12 +23,9 @@ Sep. 2019 - Jul. 2023: **Tongji University (同济大学)**
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**Digital Computing-in-Memory Architecture [In Progress]**
+**Digital Computing-in-Memory Architecture for Multimodal Transformer [Under Review]**
 * *Hardware-Software Co-Design*
 * *Tradeoff*
-  - Accuracy
-  - Efficiency
-  - Flexibility
 
 **Dynamic Scheduling Ideal Paradigm [Under Review]**
 * *Hardware-Software Co-Design*
@@ -36,8 +33,6 @@ Sep. 2019 - Jul. 2023: **Tongji University (同济大学)**
 
 **Decentralized Dataflow Architecture [Under Review]**
 * *Hardware-Software Co-Design*
-  - Software: distributed dynamic scheduling scheme
-  - Hardware: decentralized dataflow microarchitecture
 * *Tradeoff*
 
 **ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching [IEEE HPCC'23]**
