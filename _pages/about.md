@@ -72,7 +72,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Interests: Photography, Music, Travelling, ...
 
 ## Contact
-Email: qinshantian23s [at] ict [dot] ac [dot] cn\
-Telephone/Wechat: +86-17863581726
+* Email: qinshantian23s [at] ict [dot] ac [dot] cn
+* Telephone/Wechat: +86-17863581726
 <br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=tt&d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&co=ffffff&cmn=ff5353&cmo=3acc3a&ct=ababab'></script>
