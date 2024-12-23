@@ -48,7 +48,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Research intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: dataflow accelerator and RISC-V processor chip design
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
-  - Simulator: Tensor Unit & SIMD/Logic Instructions optimization and On-chip Memory & Load/Store Instruction
+  - Simulator: Tensor Core & On-chip Memory optimization, SIMD/Logic & Load/Store instructions exetension
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
 **AMD**    (Undergraduate Intern)
