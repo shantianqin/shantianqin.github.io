@@ -12,13 +12,13 @@ Welcome! I am  currently a post-graduate at [Institute of Computing Technology (
 ## Education
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
-* **M.S.** in Computer Science and Technology
-* Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
+* **M.Eng.** in Computer Science and Technology
+* Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * GPA: 3.94/4
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
-* **B.E.** in Electronic Science and Technology
+* **B.Eng.** in Electronic Science and Technology
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
 * GPA: 89.63/100, First-Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
@@ -41,14 +41,14 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Hardware: reconfigurable on-chip memory microarchitecture
 * *Tradeoff*
   - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-  - Rigid Fully Prefetching **vs.** Adaptive Prefetching (Access Pattern Based)
+  - Rigid Fully Prefetching **vs.** Adaptive Prefetching (Access-Pattern Based)
 
 ## Industry Experiences
 **SmarCo**    (Feb. 2023 - Present)  
 * Research intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: dataflow accelerator and RISC-V processor chip design
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
-  - Simulator: Tensor Unit and SIMD/Logic Instructions optimization
+  - Simulator: Tensor Unit & SIMD/Logic Instructions optimization and On-chip Memory & Load/Store Instruction
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
 **AMD**    (Undergraduate Intern)
@@ -61,7 +61,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     *IEEE HPCC 2023*, Melbourne, Australia, 2023, 9 pages
 
 ## Honors and Awards
-* First Prize in Academic Scholarship, UCAS, 2023
+* First Prize in Academic Scholarship, UCAS, 2023-2024
 * First Prize Scholarship for Outstanding Students (5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
@@ -73,6 +73,5 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Contact
 * Email: qinshantian23s [at] ict [dot] ac [dot] cn
-* Telephone/Wechat: +86-17863581726
 <br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=tt&d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&co=ffffff&cmn=ff5353&cmo=3acc3a&ct=ababab'></script>
