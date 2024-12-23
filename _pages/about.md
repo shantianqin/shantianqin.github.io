@@ -51,7 +51,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Simulator: Tensor Core & On-chip Memory optimization, SIMD/Logic & Load/Store instructions exetension
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
-**AMD**    (Undergraduate Intern)
+**AMD**    (Dec. 2022 - Jun. 2023)
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
