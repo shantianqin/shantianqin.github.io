@@ -23,16 +23,16 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**Digital Computing-in-Memory Architecture for Multimodal Transformer [Under Review]**
+**[Under Review] Digital Computing-in-Memory Architecture for Multimodal Transformer**
 * *Coming Soon*
 
-**Dynamic Scheduling Ideal Paradigm for Dataflow Architecture [Under Review]**
+**[Under Review] Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
 * *Coming Soon*
 
-**Decentralized Dataflow Architecture [Under Review]**
+**[Under Review] Decentralized Dataflow Architecture**
 * *Coming Soon*
 
-**ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching [IEEE HPCC'23]**
+**[IEEE HPCC'23] ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
 * *Hardware-Software Co-Design*
   - Software: adaptive data prefetching scheme 
   - Hardware: reconfigurable on-chip memory microarchitecture
