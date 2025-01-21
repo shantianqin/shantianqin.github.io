@@ -32,12 +32,10 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 **[IEEE ISCAS'25] StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
 * *Hardware-Software Co-Design*
-  - Software: dataflow-driven scheduling scheme
-  - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
+  - Software: mixed-stationary cross-forwarding dataflow
+  - Hardware: tile-based reconfigurable CIM macro microarchitecture
 * *Tradeoff*
-  - Accuracy: Digital Logic **vs.** Analog Logic
-  - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
-  - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
+  - Non-Streaming **vs.** Layer-Based Streaming **vs.** Tile-Based Streaming
 
 **[IEEE HPCC'23] ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
 * *Hardware-Software Co-Design*
