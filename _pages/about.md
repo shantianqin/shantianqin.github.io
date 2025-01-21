@@ -30,7 +30,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **[Under Review] Decentralized Dataflow Architecture**
 * *Coming Soon*
 
-**[IEEE ISCAS'25] StreamDCim: Tile-Based Streaming Digital CIM Architecture for Multimodal Transformer**
+**[IEEE ISCAS'25] StreamDCIM: Tile-Based Streaming Digital CIM Architecture for Multimodal Transformer**
 * *Hardware-Software Co-Design*
   - Software: dataflow-driven scheduling scheme
   - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
