@@ -23,14 +23,21 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 89.63/100, First Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
-**[Under Review] Digital Computing-in-Memory Architecture for Multimodal Transformer**
-* *Coming Soon*
 
 **[Under Review] Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
 * *Coming Soon*
 
 **[Under Review] Decentralized Dataflow Architecture**
 * *Coming Soon*
+
+**[IEEE HISCAS'25] StreamDCim: Tile-Based Streaming Digital CIM Architecture for Multimodal Transformer**
+* *Hardware-Software Co-Design*
+  - Software: dataflow-driven scheduling scheme
+  - Hardware: streaming digital computing-in-memory (CIM) microarchitecture
+* *Tradeoff*
+  - Accuracy: Digital Logic **vs.** Analog Logic
+  - Efficiency: Computing-in-Memory Arichitecture **vs.** Von Neumann Architecture
+  - Flexibility: Dataflow Architecture **vs.** Reconfigurable Architecture **vs.** Von Neumann Architecture
 
 **[IEEE HPCC'23] ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
 * *Hardware-Software Co-Design*
