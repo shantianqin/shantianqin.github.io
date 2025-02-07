@@ -58,7 +58,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## Selected Publications
-* ***[StreamDCIM: A Tile-based Streaming Digital CIM Accelerator with Mixed-stationary Cross-forwarding Dataflow for Multimodal Transformer]()***\
+* ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer]()***\
     **S. Qin**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
     *IEEE ISCAS 2025*, London, United Kingdom, 2025, 5 pages
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
