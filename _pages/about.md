@@ -59,10 +59,10 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Selected Publications
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://arxiv.org/abs/2502.05798)***\
-    <u>S. Qin</u>, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
+    **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
     ***IEEE ISCAS 2025***, London, United Kingdom, 2025, 5 pages (**TH-CPL B**)
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
-    **S. Qin**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
+    **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, 9 pages (**CCF C**)
 
 ## Honors and Awards
