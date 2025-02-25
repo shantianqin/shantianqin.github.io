@@ -58,6 +58,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## Selected Publications
+* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures]()***\
+    **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
+    ***ACM TACO***, 2025, 25 pages (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://arxiv.org/abs/2502.05798)***\
     **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
     ***IEEE ISCAS 2025***, London, United Kingdom, 2025, 5 pages (**TH-CPL B**)
