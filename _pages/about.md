@@ -27,7 +27,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **[Under Review] Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
 * *Coming Soon*
 
-**[Under Review] Decentralized Dataflow Architecture**
+**[ACM TACO] Decentralized Dataflow Architecture**
 * *Coming Soon*
 
 **[IEEE ISCAS'25] StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
