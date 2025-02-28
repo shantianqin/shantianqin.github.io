@@ -32,8 +32,8 @@ My research focuses on **Hardware-Software Co-Design for Dataflow-Driven Executi
 I aim to optimize dataflow-driven prefetching, task scheduling, in-memory computing, and RISC-V extensions through algorithm-architecture-circuit co-design for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
 **Dataflow-Driven Task Scheduling**
-* [Under Review] **Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
-* [ACM TACO 2025] **PANDA: Decentralized Dataflow PE and Distributed Task Scheduling**
+* **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
+* **[ACM TACO 2025]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
 
 **Dataflow-Driven In-Memory Computing**
 * [IEEE ISCAS'25] **StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
