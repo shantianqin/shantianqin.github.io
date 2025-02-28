@@ -31,26 +31,15 @@ My research focuses on **Hardware-Software Co-design for Dataflow-Driven Executi
 
 I aim to optimize dataflow-driven prefetching, task scheduling, in-memory computing, and RISC-V extensions through algorithm-architecture-circuit co-design for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
-**[Under Review] Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
-* *Coming Soon*
+**Dataflow-Driven Task Scheduling**
+* [Under Review] **Dynamic Scheduling Ideal Paradigm for Dataflow Architecture**
+* [ACM TACO 2025] **PANDA: Decentralized Dataflow PE and Distributed Task Scheduling**
 
-**[ACM TACO] Decentralized Dataflow Architecture**
-* *Coming Soon*
+**Dataflow-Driven In-Memory Computing**
+* [IEEE ISCAS'25] **StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
 
-**[IEEE ISCAS'25] StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
-* *Hardware-Software Co-Design*
-  - Software: mixed-stationary cross-forwarding dataflow
-  - Hardware: tile-based reconfigurable CIM macro microarchitecture
-* *Tradeoff*
-  - Non-Streaming **vs.** Layer-Based Streaming **vs.** Tile-Based Streaming
-
-**[IEEE HPCC'23] ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
-* *Hardware-Software Co-Design*
-  - Software: adaptive data prefetching scheme 
-  - Hardware: reconfigurable on-chip memory microarchitecture
-* *Tradeoff*
-  - ScratchPad Meony (Domain-Specific Accelerate) **vs.** Cache (General-Purpose Process)
-  - Full Prefetching **vs.** Adaptive Prefetching (Access-Pattern Based)
+**Dataflow-Driven Data Prefetching**
+* [IEEE HPCC'23] **ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
 
 ## Industry Experiences
 **SmarCo**    (Feb. 2023 - Present)  
