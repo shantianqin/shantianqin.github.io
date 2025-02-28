@@ -36,10 +36,10 @@ I aim to optimize dataflow-driven prefetching, task scheduling, in-memory comput
 * **[ACM TACO 2025]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
 
 **Dataflow-Driven In-Memory Computing**
-* [IEEE ISCAS'25] **StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer**
+* **[IEEE ISCAS'25]** StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer
 
 **Dataflow-Driven Data Prefetching**
-* [IEEE HPCC'23] **ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching**
+* **[IEEE HPCC'23]** ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching
 
 ## Industry Experiences
 **SmarCo**    (Feb. 2023 - Present)  
