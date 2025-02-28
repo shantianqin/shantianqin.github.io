@@ -29,7 +29,7 @@ My research focuses on **Hardware-Software Co-Design for Dataflow-Driven Executi
 * ***Dataflow-Driven Task Scheduling***
 * ***Dataflow-Driven In-Memory Computing***
 
-I aim to optimize dataflow-driven prefetching, task scheduling, in-memory computing, and RISC-V extensions through algorithm-architecture-circuit co-design for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
+I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension through algorithm-architecture-circuit co-design for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
