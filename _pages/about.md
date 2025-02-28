@@ -33,7 +33,7 @@ I aim to optimize dataflow-driven prefetching, task scheduling, in-memory comput
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
-* **[ACM TACO 2025]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
+* **[ACM TACO'25]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
 
 **Dataflow-Driven In-Memory Computing**
 * **[IEEE ISCAS'25]** StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer
