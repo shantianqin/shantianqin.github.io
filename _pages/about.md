@@ -71,7 +71,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
 
-## Service and Leadership
+## Services and Leaderships
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
   
