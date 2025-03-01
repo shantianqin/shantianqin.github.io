@@ -44,7 +44,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 ## Industry Experiences
 **SmarCo**    (Feb. 2023 - Present)  
 * Research intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
-* Overview: dataflow accelerator and RISC-V processor chip design
+* Overview: Dataflow Accelerator and RISC-V Processor Chip Design
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
   - Simulator: Tensor Core & On-chip Memory optimization, SIMD/Logic & Load/Store instructions exetension
   - Runtime: Runtime design for multi-application dynamic scheduling 
