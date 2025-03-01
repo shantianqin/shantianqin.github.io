@@ -46,7 +46,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Research intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: **Dataflow Accelerator and RISC-V Processor Chip Design**
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
-  - Simulator: Tensor Core & On-chip Memory & Data Transfer optimization, SIMD/Logic & Load/Store instructions exetension 
+  - Simulator: Processing Element (Tensor Core) & On-chip Memory (Data Buffer) & Data Transfer (Matrix Normal/Transpose Transfer) optimization, SIMD/Logic & Load/Store instructions exetension 
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
 **AMD**    (Undergraduate Internship)
