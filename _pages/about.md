@@ -72,8 +72,8 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
 
 ## Service and Leadership
-* Head of the Popular Science Department of ICT-CAS Student Association for Science and Technology, ICT-CAS, 2024-Present
-* Member of the Executive Committee of Tongji University Student Union, Tongji University, 2021-2022
+* Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
+* Member of the Executive Committee of Student Union, Tongji University, 2021-2022
   
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, LaTex, Visio, ...
