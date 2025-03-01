@@ -70,6 +70,10 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * First Prize Scholarship for Outstanding Students (5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
+
+## Service and Leadership
+* Head of the Popular Science Department of ICT-CAS Student Association for Science and Technology, ICT-CAS, 2024-Present
+* Member of the Executive Committee of Tongji University Student Union, Tongji University, 2021-2022
   
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, LaTex, Visio, ...
