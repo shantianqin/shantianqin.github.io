@@ -54,7 +54,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## Selected Publications
-* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures]()***\
+* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
     ***ACM TACO***, 2025, 25 pages (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://arxiv.org/abs/2502.05798)***\
