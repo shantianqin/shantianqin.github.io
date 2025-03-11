@@ -39,7 +39,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * **[IEEE ISCAS'25]** StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer
 
 **Dataflow-Driven Data Prefetching**
-* **[IEEE HPCC'23]** ROMA: Reconfigurable On-Chip Memory and Adaptive Data Prefetching
+* **[IEEE HPCC'23]** ROMA: Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators
 
 ## Industry Experiences
 **SmarCo (中科睿芯)**    (Feb. 2023 - Present)  
