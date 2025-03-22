@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow architecture, reconfigurable computing, digital computing-in-memory architecture, and hardware-software co-design. Please feel free to contact me.
+Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI accelerator, reconfigurable computing, digital computing-in-memory architecture, and hardware-software co-design. Please feel free to contact me.
 
 ## Education
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -44,7 +44,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 ## Industry Experiences
 **SmarCo (中科睿芯)**    (Feb. 2023 - Present)  
 * Research Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
-* Overview: **Dataflow Accelerator and RISC-V Processor Chip Design**
+* Overview: **Dataflow-Driven AI Accelerator and RISC-V Processor Chip Design**
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
   - Simulator: Processing Element (Tensor Core) & On-chip Memory (Data Buffer) & Data Transfer (INT8/FP16 Matrix Normal/Transpose Mode) optimization, SIMD/Logic & Load/Store instructions exetension 
   - Runtime: Runtime design for multi-application dynamic scheduling 
