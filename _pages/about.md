@@ -24,12 +24,12 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Research Experiences
 
-My research focuses on **Hardware-Software Co-Design for Dataflow-Driven AI Accelerators**, with the following directions:
+My research focuses on **Hardware-Software Co-Design for Dataflow-Driven Execution Model**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
 * ***Dataflow-Driven Task Scheduling***
 * ***Dataflow-Driven In-Memory Computing***
 
-I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
+I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design for Emerging AI**, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
