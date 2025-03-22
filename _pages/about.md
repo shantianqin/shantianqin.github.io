@@ -24,7 +24,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## Research Experiences
 
-My research focuses on **Hardware-Software Co-Design for Dataflow-Driven Execution Model**, with the following directions:
+My research focuses on **Hardware-Software Co-Design for Dataflow-Driven AI Accelerators**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
 * ***Dataflow-Driven Task Scheduling***
 * ***Dataflow-Driven In-Memory Computing***
