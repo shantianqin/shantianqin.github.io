@@ -12,13 +12,13 @@ Welcome! I am  currently a post-graduate at [Institute of Computing Technology (
 ## Education
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
-* **Ph. D. Candidate** in Computer Science and Technology (Computer Architecture)
+* **Ph.D. Candidate** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * GPA: 3.94/4, HYGON Scholarship (2/200+, 2024)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
-* **B. Eng.** in Electronic Science and Technology (Microelectronics)
+* **B.Eng.** in Electronic Science and Technology (Microelectronics)
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
 * GPA: 89.63/100, First Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
@@ -65,7 +65,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, 9 pages (**CCF C**)
 
 ## Honors and Awards
-* HYGON Master Scholarship (2/200+), ICT-CAS, 2024
+* HYGON Scholarship (2/200+), ICT-CAS, 2024
 * First Prize in Academic Scholarship, UCAS, 2023-2024
 * First Prize Scholarship for Outstanding Students (5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
