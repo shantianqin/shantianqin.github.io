@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/).  Here is my [中文简历](https://shantianqin.github.io/files/shantian_CV_Chinese_2504.pdf). My research interests include dataflow-driven AI chip design, reconfigurable computing, digital computing-in-memory architecture, and hardware-software co-design. Please feel free to contact me.
+Welcome! I am  currently a post-graduate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui) and [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI chip design, reconfigurable computing, digital computing-in-memory architecture, and hardware-software co-design. Here is my [中文简历](https://shantianqin.github.io/files/shantian_CV_Chinese_2504.pdf). Please feel free to contact me.
 
 ## Education
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
