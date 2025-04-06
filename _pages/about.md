@@ -20,7 +20,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm)
-* GPA: 89.63/100, First Prize Scholarship for Outstanding Students (5%, 2021-2022)
+* GPA: 90/100, First Prize Scholarship for Outstanding Students (5%, 2021-2022)
 
 ## Research Experiences
 
