@@ -57,7 +57,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
     ***ACM TACO***, 2025, 26 pages (**CCF A**)
-* ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://arxiv.org/abs/2502.05798)***\
+* ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
     **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
     ***IEEE ISCAS 2025***, London, United Kingdom, 2025, 5 pages (**TH-CPL B**)
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
