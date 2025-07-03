@@ -56,17 +56,17 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 ## Selected Publications
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
-    ***ACM TACO***, 2025, 27 pages (**CCF A**)
+    ***ACM TACO***, 2025, vol. 22, no. 2, pp. 1-27 (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
     **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
-    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, 5 pages (**TH-CPL B**)
+    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**TH-CPL B**)
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
-    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, 9 pages (**CCF C**)
+    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
 
 ## Patents
-* **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. 2025, Application No. 202510890805.6.
-* **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. 2024, Publication No. (public) CN118132462A.
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法 (A Semi-Centralised Dynamic Task Scheduling Device and Method for Dataflow Architecture). Application No. 202510890805.6, 2025.
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器 (A Data Prefetching Method and Processor for Datflow Many-Core Architecture). Publication No. (public) CN118132462A, 2024.
 
 ## Honors and Awards
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
