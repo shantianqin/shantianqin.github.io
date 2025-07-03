@@ -64,6 +64,10 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
     **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, 9 pages (**CCF C**)
 
+## Patents
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. 2025, Application No. 202510890805.6.
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. 2024, Publication No. (public) CN118132462A.
+
 ## Honors and Awards
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Postgraduate Scholarship (2/200+), ICT-CAS, 2024
