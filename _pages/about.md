@@ -70,11 +70,11 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 
 ## Talks
 * **[Research on Decentralized Task Scheduling for Edge Intelligence Accelerators](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**\
-    Young Scholar & PhD Forum, CCF Computility 2025, Lanzhou, China, Jul. 2025
+    ***Young Scholar & PhD Forum***, ***CCF Computility 2025***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
-    Conference Talk, IEEE ISCAS 2025, London, United Kingdom, May 2025
+    ***Conference Talk***, ***IEEE ISCAS 2025***, London, United Kingdom, May 2025
 * **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
-    Conference Talk, IEEE HPCC 2023, Melbourne, Australia, Dec. 2023
+    ***Conference Talk***, ***IEEE HPCC 2023***, Melbourne, Australia, Dec. 2023
 
 ## Honors and Awards
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
