@@ -84,9 +84,16 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
 
-## Services and Leaderships
+## Services
+**Academic Services**    
+* Sub-Reviewer: IEEE ISPA 2025, HPC China 2025, Future Generation Computer Systems
+
+**Volunteer Services and Leaderships**    
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
+
+**Professional Affiliations**    
+* Graduate Student Member: IEEE, ACM, CCF
   
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, LaTex, Visio, ...
