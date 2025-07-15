@@ -94,11 +94,6 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 **Volunteer Services and Leaderships**    
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
-  
-## Skills and Interests
-* Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, LaTex, Visio, ...
-* Languages: Chinese - Mandarin (Native), English (CET6), German (B1)
-* Interests: Photography, Music, Travelling, ...
 
 ## Contact
 * Email: qinshantian23s [at] ict [dot] ac [dot] cn
