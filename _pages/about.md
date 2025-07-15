@@ -88,12 +88,12 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 **Academic Services**    
 * Sub-Reviewer: IEEE ISPA 2025, HPC China 2025, Future Generation Computer Systems
 
+**Professional Affiliations**    
+* Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
+
 **Volunteer Services and Leaderships**    
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
-
-**Professional Affiliations**    
-* Graduate Student Member: IEEE, ACM, CCF
   
 ## Skills and Interests
 * Technical: C/C++, Verilog, Python, Assembly Language, Synopsys EDA Tools, LaTex, Visio, ...
