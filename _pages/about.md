@@ -42,7 +42,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 **Dataflow-Driven Data Prefetching**
 * **[IEEE HPCC'23]** ROMA: Reconfigurable On-Chip Memory Architecture
 
-## 🪪 Industry Experiences {#internship}
+## 🧑‍💻 Industry Experiences {#internship}
 **SmarCo (中科睿芯)**    (Feb. 2023 - Present)  
 * Research Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: **Dataflow-Driven AI Accelerator and RISC-V Processor Chip Design**
@@ -88,7 +88,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
 
-## Talks {#talks}
+## 🎤 Talks {#talks}
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & PhD Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
