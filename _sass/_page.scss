@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  color: #000000; // 设置字体颜色为黑色，蓝色#527bbd
+  //color: #000000; // 设置字体颜色为黑色，蓝色#527bbd
    
   & + .page__meta {
     margin-top: -0.5em;
@@ -53,7 +53,7 @@
 .page__content {
 
   h2 {
-    color: #000000; // 设置字体颜色为黑色，蓝色#527bbd
+    //color: #000000; // 设置字体颜色为黑色，蓝色#527bbd
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
