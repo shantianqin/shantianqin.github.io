@@ -23,14 +23,14 @@ main:
   - title: "Patents"
     url: /#patents
 
-  - title: "Talks"
-    url: /#talks
-
   - title: "Awards"
     url: /#awards
 
   - title: "Services"
     url: /#services
+
+  - title: "Talks"
+    url: /#talks
 
   - title: "Contact"
     url: /#contact
