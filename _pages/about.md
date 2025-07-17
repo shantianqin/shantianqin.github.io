@@ -69,14 +69,6 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
 
-## Talks {#talks}
-* **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
-    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & PhD Forum)***, Lanzhou, China, Jul. 2025
-* **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
-    ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
-* **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
-    ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
-
 ## Honors and Awards {#awards}
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Postgraduate Scholarship (2/200+), ICT-CAS, 2024
@@ -95,6 +87,14 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 **Volunteer Services and Leaderships**    
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
+
+## Talks {#talks}
+* **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
+    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & PhD Forum)***, Lanzhou, China, Jul. 2025
+* **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
+    ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
+* **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
+    ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
 ## Contact {#contact}
 * Email: qinshantian23s [at] ict [dot] ac [dot] cn
