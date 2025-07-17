@@ -23,7 +23,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (IEEE AP-S Distinguished Lecturer, EMA/JSPS Fellow)
 * GPA: 90/100, First Prize Scholarship for Outstanding Students (top 5%, 2021-2022)
 
-## 🖥️ Research Experiences {#research}
+## 📚 Research Experiences {#research}
 
 My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Execution Model for Emerging AI Applications**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
