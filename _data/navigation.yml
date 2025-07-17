@@ -5,6 +5,36 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About me"
+    url: /#aboutme
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Internship"
+    url: /#internship
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Patents"
+    url: /#patents
+
+  - title: "Talks"
+    url: /#talks
+
+  - title: "Awards"
+    url: /#awards
+
+  - title: "Services"
+    url: /#services
+
+  - title: "Contact"
+    url: /#contact
+    
   #- title: "Publications"
   #  url: /publications/
 
