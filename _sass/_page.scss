@@ -37,6 +37,8 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+
+  color: #737882; //颜色为深灰色
    
   & + .page__meta {
     margin-top: -0.5em;
@@ -51,6 +53,7 @@
 .page__content {
 
   h2 {
+    color: #737882; //颜色为深灰色
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
