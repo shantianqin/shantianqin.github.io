@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {:#aboutme}
-Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI chip design, reconfigurable computing, digital computing-in-memory architecture, and hardware-software co-design. Please feel free to contact me.
+Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI chip design, reconfigurable computing, data-centric near-/in-memory computing, and hardware-software co-design. Please feel free to contact me.
 
 ## 🎓 Education {#education}
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
@@ -66,12 +66,13 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
 
 ## 📑 Patents {#patents}
+* 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种异构智能的数据流执行模型及装置. 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
 
 ## 🏅 Honors and Awards {#awards}
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
-* HYGON Postgraduate Scholarship (2/200+), ICT-CAS, 2024
+* HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * First Prize in Academic Scholarship, UCAS, 2023-2024
 * First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
