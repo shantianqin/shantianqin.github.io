@@ -35,15 +35,15 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Execution Model for Emerging AI Applications**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
 * ***Dataflow-Driven Task Scheduling***
-* ***Dataflow-Driven In-Memory Computing***
+* ***Dataflow-Driven Memory-Centric Computing***
 
-I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
+I aim to optimize dataflow-driven data prefetching, task scheduling, memory-centric computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
 * **[ACM TACO'25]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
 
-**Dataflow-Driven In-Memory Computing**
+**Dataflow-Driven Memory-Centric Computing**
 * **[IEEE ISCAS'25]** StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer
 
 **Dataflow-Driven Data Prefetching**
