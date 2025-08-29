@@ -96,7 +96,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
 
-## 🎤 Talks {#talks}
+## 🎤 Invited Talks {#talks}
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
