@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI chip design, reconfigurable computing, memory-centric computing, and hardware-software co-design. Please feel free to contact me.
 
 ## 🔥 News {#news}
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in CCF Computility 2025.
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in **CCF Computility 2025**.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**! Congratulations to all!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**! Congratulations to all!🎉
