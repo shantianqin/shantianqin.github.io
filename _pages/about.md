@@ -10,6 +10,13 @@ redirect_from:
 {:#aboutme}
 Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include dataflow-driven AI chip design, reconfigurable computing, memory-centric computing, and hardware-software co-design. Please feel free to contact me.
 
+## 🔥 News {#news}
+* [Jul 2025] Giving a talk on Edge-AI Dataflow Accelerator in the Young Scholar & Excellent PhD Forum of CCF Computility 2025.
+* [May 2025] Awarded the **Pacemaker to Merit Students** of UCAS!
+* [Feb 2025] One paper paper is accepted by **ACM TACO**! Congratulations to all!
+* [Jan 2025] One paper paper is accepted by **IEEE ISCAS 2025**! Congratulations to all!
+* [Dec 2024] Awarded the **HYGON Named Scholarship** of ICT-CAS & HYGON!
+
 ## 🎓 Education {#education}
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
@@ -91,7 +98,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 
 ## 🎤 Talks {#talks}
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
-    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & PhD Forum)***, Lanzhou, China, Jul. 2025
+    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
     ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
 * **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
