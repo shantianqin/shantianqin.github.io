@@ -73,7 +73,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
 
 ## 📑 Patents {#patents}
-* 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种异构智能的数据流执行模型及装置. 2025.
+* 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
 
