@@ -23,7 +23,7 @@ Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing T
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
-* GPA: 3.94/4, National Scholarship (**top 0.2%**), Pacemaker to Merit Students (**top 1%**), HYGON Scholarship (2/200+, 2024)
+* GPA: 3.94/4, National Scholarship (**top 0.2%**, 2025), Pacemaker to Merit Students (**top 1%**, 2025), HYGON Scholarship (2/200+, 2024)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
