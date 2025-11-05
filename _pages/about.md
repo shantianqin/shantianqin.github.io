@@ -89,7 +89,8 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* Sub-Reviewer: IEEE ISPA 2025, HPC China 2025, CCF NCCET 2025, Future Generation Computer Systems, Sustainable Computing: Informatics and Systems
+* Reviewer: IEEE ISCAS 2026
+* Sub-Reviewer: IEEE ISPA 2025, HPC China 2025, CCF NCCET 2025, Parallel Computing (PARCO), Future Generation Computer Systems (FGCS), Sustainable Computing: Informatics and Systems (SUSCOM)
  
 **Professional Affiliations**    
 * Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
