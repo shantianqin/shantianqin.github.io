@@ -11,6 +11,7 @@ redirect_from:
 Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
 
 ## 🔥 News {#news}
+* [2025/11] Awarded the **National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in CCF Computility 2025.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**! Congratulations to all!🎉
@@ -22,7 +23,7 @@ Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing T
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui)
-* GPA: 3.94/4, Pacemaker to Merit Students (**top 1%**), HYGON Scholarship (2/200+, 2024)
+* GPA: 3.94/4, National Scholarship (**top 0.2%**), Pacemaker to Merit Students (**top 1%**), HYGON Scholarship (2/200+, 2024)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
@@ -78,6 +79,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
 
 ## 🏅 Honors and Awards {#awards}
+* National Scholarship (**top 0.2%**), 2025
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * First Prize in Academic Scholarship, UCAS, 2023-2024
