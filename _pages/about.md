@@ -11,11 +11,12 @@ redirect_from:
 Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming) and [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
 
 ## 🔥 News {#news}
+* [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Awarded the **National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in CCF Computility 2025.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
-* [2025/02] One paper is accepted by **ACM TACO**! Congratulations to all!🎉
-* [2025/01] One paper is accepted by **IEEE ISCAS 2025**! Congratulations to all!🎉
+* [2025/02] One paper is accepted by **ACM TACO**! 🎉
+* [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
 * [2024/12] Awarded the **HYGON Named Scholarship** of ICT-CAS & HYGON!🏆
 
 ## 🎓 Education {#education}
@@ -36,9 +37,13 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Execution Model for Emerging AI Applications**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
 * ***Dataflow-Driven Task Scheduling***
+* ***Dataflow-Driven RISC-V Extension***
 * ***Dataflow-Driven In-Memory Computing***
 
 I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
+
+**Dataflow-Driven RISC-V Extension**
+* **[DATE'26]** RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
@@ -63,6 +68,9 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## 📝 Selected Publications {#publications}
+* ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
+    T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
+    ***DATE 2026***, Verona, Italy, pp. 1-7 (**CCF B**)
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
     ***ACM TACO***, 2025, vol. 22, no. 2, pp. 1-27 (**CCF A**)
