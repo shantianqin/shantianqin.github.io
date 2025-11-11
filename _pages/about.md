@@ -70,7 +70,7 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 ## 📝 Selected Publications {#publications}
 * ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
     T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
-    ***DATE 2026***, Verona, Italy, pp. 1-7 (**CCF B**)
+    ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
     ***ACM TACO***, 2025, vol. 22, no. 2, pp. 1-27 (**CCF A**)
