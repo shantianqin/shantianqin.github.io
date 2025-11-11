@@ -15,7 +15,7 @@ Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing T
 * [2025/11] Awarded the **National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in CCF Computility 2025.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
-* [2025/02] One paper is accepted by **ACM TACO**! 🎉
+* [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
 * [2024/12] Awarded the **HYGON Named Scholarship** of ICT-CAS & HYGON!🏆
 
