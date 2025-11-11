@@ -37,13 +37,13 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Execution Model for Emerging AI Applications**, with the following directions:
 * ***Dataflow-Driven Data Prefetching***
 * ***Dataflow-Driven Task Scheduling***
-* ***Dataflow-Driven RISC-V Extension***
+* ***Dataflow-Driven RISC-V Extensions***
 * ***Dataflow-Driven In-Memory Computing***
 
 I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
-**Dataflow-Driven RISC-V Extension**
-* **[DATE'26]** RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference
+**Dataflow-Driven RISC-V Extensions**
+* **[DATE'26]** RISC-V Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
