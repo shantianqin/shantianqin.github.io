@@ -54,8 +54,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
 * Reviewer, **IEEE ISCAS 2026**
-* Sub-Reviewer, **Sustainable Computing: Informatics and Systems (SUSCOM)**, 2025
 * Sub-Reviewer, **Parallel Computing (PARCO)**, 2025
+* Sub-Reviewer, **Sustainable Computing: Informatics and Systems (SUSCOM)**, 2025
 * Sub-Reviewer, **CCF NCCET 2025**
 * Sub-Reviewer, **IEEE ISPA 2025**
 * Sub-Reviewer, **CCF HPC China 2025**
