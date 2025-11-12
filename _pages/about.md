@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {:#aboutme}
-Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
+I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
 
 ## 🔥 News {#news}
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
@@ -23,7 +23,7 @@ Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing T
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
-* Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+* Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
 * GPA: 3.93/4, **National Scholarship** (**top 0.4%**), Pacemaker to Merit Students (**top 1%**)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
@@ -62,7 +62,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Sub-Reviewer, **Future Generation Computer Systems (FGCS)**, 2025
  
 **Professional Affiliations**    
-* Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
+* Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
 
 **Volunteer Services and Leaderships**    
 * **Vice President** and Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
