@@ -69,11 +69,11 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
-* National Scholarship (**top 0.4%**), 2025
-* Pacemaker to Merit Students (**top 1%**), UCAS, 2025
-* HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
-* First Prize in Academic Scholarship, UCAS, 2024
-* First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
+* National Scholarship (国家奖学金，**top 0.4%**), 2025
+* Pacemaker to Merit Students (三好学生标兵，**top 1%**), UCAS, 2025
+* HYGON Named Scholarship (海光冠名奖学金，2/200+), ICT-CAS & HYGON, 2024
+* First Prize in Academic Scholarship (研究生学业奖学金一等奖), UCAS, 2024
+* First Prize Scholarship for Outstanding Students (本科优秀学生奖学金一等奖，top 5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
 
