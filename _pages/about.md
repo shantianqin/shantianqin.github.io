@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {:#aboutme}
-Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
+Welcome! I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
 
 ## 🔥 News {#news}
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
@@ -31,6 +31,59 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
 * Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (IEEE AP-S Distinguished Lecturer, EMA/JSPS Fellow)
 * GPA: 90/100, First Prize Scholarship for Outstanding Students (top 5%, 2021-2022)
+
+## 📝 Selected Publications {#publications}
+* ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
+    T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
+    ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
+* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
+    **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
+    ***ACM TACO***, 2025, vol. 22, no. 2, pp. 1-27 (**CCF A**)
+* ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
+    **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
+    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**TH-CPL B**)
+* ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
+    **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
+    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
+
+## 📑 Patents {#patents}
+* 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. Application No. 202511335451.5, 2025.
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
+* **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
+
+## 👨‍🏫 Services {#services}
+**Academic Services**    
+* Reviewer, IEEE ISCAS 2026
+* Sub-Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM), 2025
+* Sub-Reviewer, Parallel Computing (PARCO), 2025
+* Sub-Reviewer, CCF NCCET 2025
+* Sub-Reviewer, IEEE ISPA 2025
+* Sub-Reviewer, CCF HPC China 2025
+* Sub-Reviewer, Future Generation Computer Systems (FGCS), 2025
+ 
+**Professional Affiliations**    
+* Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
+
+**Volunteer Services and Leaderships**    
+* Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
+* Member of the Executive Committee of Student Union, Tongji University, 2021-2022
+
+## 🏅 Honors and Awards {#awards}
+* National Scholarship (**top 0.4%**), 2025
+* Pacemaker to Merit Students (**top 1%**), UCAS, 2025
+* HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
+* First Prize in Academic Scholarship, UCAS, 2023-2024
+* First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
+* First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
+* Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
+
+## 🎤 Invited Talks {#talks}
+* **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
+    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
+* **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
+    ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
+* **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
+    ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
 ## 🔍 Research Experiences {#research}
 
@@ -66,54 +119,6 @@ I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory c
 **AMD**    (Undergraduate Internship)
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
-
-## 📝 Selected Publications {#publications}
-* ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
-    T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
-    ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
-* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
-    **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
-    ***ACM TACO***, 2025, vol. 22, no. 2, pp. 1-27 (**CCF A**)
-* ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
-    **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
-    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**TH-CPL B**)
-* ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
-    **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
-    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
-
-## 📑 Patents {#patents}
-* 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. Application No. 202511335451.5, 2025.
-* **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
-* **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
-
-## 🏅 Honors and Awards {#awards}
-* National Scholarship (**top 0.4%**), 2025
-* Pacemaker to Merit Students (**top 1%**), UCAS, 2025
-* HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
-* First Prize in Academic Scholarship, UCAS, 2023-2024
-* First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
-* First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
-* Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
-
-## 👨‍🏫 Services {#services}
-**Academic Services**    
-* Reviewer: IEEE ISCAS 2026
-* Sub-Reviewer: IEEE ISPA 2025, HPC China 2025, CCF NCCET 2025, Parallel Computing (PARCO), Future Generation Computer Systems (FGCS), Sustainable Computing: Informatics and Systems (SUSCOM)
- 
-**Professional Affiliations**    
-* Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
-
-**Volunteer Services and Leaderships**    
-* Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
-* Member of the Executive Committee of Student Union, Tongji University, 2021-2022
-
-## 🎤 Invited Talks {#talks}
-* **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
-    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
-* **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
-    ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
-* **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
-    ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
 ## ✉️ Contact {#contact}
 * Email: qinshantian23s [at] ict [dot] ac [dot] cn
