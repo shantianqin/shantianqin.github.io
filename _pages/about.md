@@ -53,11 +53,11 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* Reviewer, IEEE International Symposium on Circuits and Systems (ISCAS) 2026
+* Reviewer, IEEE ISCAS 2026
 * Sub-Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM), 2025
 * Sub-Reviewer, Parallel Computing (PARCO), 2025
-* Sub-Reviewer, CCF National Conference on Computer Engineering and Technology (NCCET) 2025
-* Sub-Reviewer, IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2025
+* Sub-Reviewer, CCF NCCET 2025
+* Sub-Reviewer, IEEE ISPA 2025
 * Sub-Reviewer, CCF HPC China 2025
 * Sub-Reviewer, Future Generation Computer Systems (FGCS), 2025
  
@@ -65,15 +65,16 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Graduate Student Member: IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF
 
 **Volunteer Services and Leaderships**    
-* Vice President of Student Association for Science and Technology, ICT-CAS, 2025-Present
-* Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-2025
+* Vice President and Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * Member of the Executive Committee of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
 * National Scholarship (**top 0.4%**), 2025
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
-* First Prize in Academic Scholarship, UCAS, 2023-2024
+* Academic Scholarship, UCAS, 2025
+* Academic Scholarship (First Prize), UCAS, 2024
+* Academic Scholarship, UCAS, 2023
 * First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
