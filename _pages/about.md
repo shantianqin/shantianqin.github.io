@@ -43,7 +43,7 @@ My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Executio
 I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
 
 **Dataflow-Driven RISC-V Extensions**
-* **[DATE'26]** RISC-V Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference
+* **[DATE'26]** RISC-V ISA Extensions for Unstructured Sparse SpMM in LLM Inference
 
 **Dataflow-Driven Task Scheduling**
 * **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
