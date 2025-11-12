@@ -72,9 +72,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * National Scholarship (**top 0.4%**), 2025
 * Pacemaker to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
-* Academic Scholarship, UCAS, 2025
-* Academic Scholarship (First Prize), UCAS, 2024
-* Academic Scholarship, UCAS, 2023
+* First Prize in Academic Scholarship, UCAS, 2024
 * First Prize Scholarship for Outstanding Students (top 5%), Tongji University, 2021-2022
 * First Prize (Gold Award) at National Final, 13th "Challenge Cup" Competition, 2023
 * Second Prize (Silver Award) at National Final, 7th "Internet+" Competition, 2021
