@@ -53,13 +53,13 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* Reviewer, ***IEEE ISCAS 2026*** (**TH-CPL B**)
-* Sub-Reviewer, ***Parallel Computing (PARCO)***, 2025 (**CCF B**)
-* Sub-Reviewer, ***Sustainable Computing: Informatics & Systems (SUSCOM)***, 2025 (**JCR Q1**)
-* Sub-Reviewer, ***CCF NCCET 2025***
-* Sub-Reviewer, ***IEEE ISPA 2025*** (**CCF C**)
-* Sub-Reviewer, ***CCF HPC China 2025***
-* Sub-Reviewer, ***Future Generation Computer Systems (FGCS)***, 2025 (**JCR Q1**)
+* ***IEEE ISCAS 2026***, Reviewer (**TH-CPL B**)
+* ***Parallel Computing (PARCO)***, 2025, Sub-Reviewer (**CCF B**)
+* ***Sustainable Computing: Informatics & Systems (SUSCOM)***, 2025, Sub-Reviewer (**JCR Q1**)
+* ***CCF NCCET 2025***, Sub-Reviewer 
+* ***IEEE ISPA 2025***, Sub-Reviewer (**CCF C**)
+* ***CCF HPC China 2025***, Sub-Reviewer 
+* ***Future Generation Computer Systems (FGCS)***, 2025, Sub-Reviewer (**JCR Q1**)
  
 **Professional Affiliations**    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
