@@ -46,20 +46,20 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
 
-## 📑 Patents {#patents}
+**Patents**
 * 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. Application No. 202511335451.5, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. Application No. 202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. Publication No. CN118132462A, 2024.
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* Reviewer, **IEEE ISCAS 2026**
-* Sub-Reviewer, **Parallel Computing (PARCO)**, 2025
+* Reviewer, **IEEE ISCAS 2026** (**TH-CPL B**)
+* Sub-Reviewer, **Parallel Computing (PARCO)**, 2025 (**CCF B**)
 * Sub-Reviewer, **Sustainable Computing: Informatics and Systems (SUSCOM)**, 2025
 * Sub-Reviewer, **CCF NCCET 2025**
-* Sub-Reviewer, **IEEE ISPA 2025**
+* Sub-Reviewer, **IEEE ISPA 2025** (**TH-CPL C**)
 * Sub-Reviewer, **CCF HPC China 2025**
-* Sub-Reviewer, **Future Generation Computer Systems (FGCS)**, 2025
+* Sub-Reviewer, **Future Generation Computer Systems (FGCS)**, 2025 (**JCR Q1**)
  
 **Professional Affiliations**    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
