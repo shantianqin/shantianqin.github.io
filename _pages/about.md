@@ -59,7 +59,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Sustainable Computing: Informatics & Systems (SUSCOM)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **IEEE ISPA**, 2025, Sub-Reviewer (**CCF C**)
 * **CCF HPC China**, 2025, Sub-Reviewer (**CCF Flagship Conf.**)
-* **CCF NCCET**, 2025, Sub-Reviewer (**CCF Flagship Conf.**)
+* **CCF National Conference on Computer Engineering and Technology**, 2025, Sub-Reviewer
 
 **Professional Affiliations**    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
