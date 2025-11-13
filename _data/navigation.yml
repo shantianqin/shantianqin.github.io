@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "About me"
+  - title: "About"
     url: /#aboutme
     
   - title: "News"
@@ -14,26 +14,26 @@ main:
   - title: "Education"
     url: /#education
 
-  - title: "Research"
-    url: /#research
-
-  - title: "Internship"
-    url: /#internship
-
   - title: "Publications"
     url: /#publications
 
   - title: "Patents"
     url: /#patents
 
+  - title: "Services"
+    url: /#services
+  
   - title: "Awards"
     url: /#awards
 
-  - title: "Services"
-    url: /#services
-
   - title: "Talks"
     url: /#talks
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Internship"
+    url: /#internship
 
   - title: "Contact"
     url: /#contact
