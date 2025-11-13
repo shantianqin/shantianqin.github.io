@@ -58,8 +58,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **Sustainable Computing: Informatics & Systems (SUSCOM)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **IEEE ISPA**, 2025, Sub-Reviewer (**CCF C**)
-* **CCF HPC China**, 2025, Sub-Reviewer
-* **CCF NCCET**, 2025, Sub-Reviewer
+* **CCF HPC China**, 2025, Sub-Reviewer (**Academic Annual Conference of CCF TC-HPC**)
+* **CCF NCCET**, 2025, Sub-Reviewer (**Academic Annual Conference of CCF TC-CET**)
 
 **Professional Affiliations**    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
