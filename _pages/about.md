@@ -57,6 +57,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **Sustainable Computing: Informatics & Systems (SUSCOM)**, 2025, Sub-Reviewer (**JCR Q1**)
+* **The Journal of Supercomputing (TJSC)**, 2025, Sub-Reviewer (**JCR Q2**)
 * **IEEE ISPA**, 2025, Sub-Reviewer (**CCF C**)
 * **CCF HPC China**, 2025, Sub-Reviewer (**Academic Annual Conf. of CCF TC-HPC**)
 * **CCF NCCET**, 2025, Sub-Reviewer (**Academic Annual Conf. of CCF TC-CET**)
