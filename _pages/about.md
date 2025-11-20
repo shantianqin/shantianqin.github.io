@@ -24,7 +24,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
-* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), Pacemaker to Merit Students (**top 1%**)
+* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker** to Merit Students (**top 1%**)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
@@ -70,8 +70,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
-* National Scholarship (**top 0.4%**), China, 2025
-* Pacemaker to Merit Students (**top 1%**), UCAS, 2025
+* **National Scholarship** (**top 0.4%**), China, 2025
+* **Pacemaker** to Merit Students (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
 * **First-Class** Outstanding Undergraduate Scholarship (top 5%), Tongji University, 2021-2022
