@@ -70,8 +70,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
-* **National Scholarship** (**top 0.4%**), China, 2025
-* **Pacemaker to Merit Students** (**top 1%**), UCAS, 2025
+* **National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
+* **Pacemaker to Merit Students 三好学生标兵** (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
 * **First-Class** Outstanding Undergraduate Scholarship (top 5%), Tongji University, 2021-2022
