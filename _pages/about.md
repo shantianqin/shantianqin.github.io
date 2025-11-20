@@ -13,7 +13,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 ## 🔥 News {#news}
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Awarded the **National Scholarship**!🏆
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in CCF Computility 2025.
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** in **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
