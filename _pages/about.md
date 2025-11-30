@@ -81,7 +81,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Second Prize (Silver Award)** at National Final, 7th "Internet+" Competition, 2021
 
 ## 🎤 Invited Talks {#talks}
-* **Optimizing Data Access–Movement–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
+* **Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
     ***[UCAS Postgraduate Academic Forum 2025]()***, Beijing, China, Nov. 2025
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
