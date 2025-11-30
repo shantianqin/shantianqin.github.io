@@ -11,7 +11,7 @@ redirect_from:
 I am  currently a third-year Ph.D. student at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from the School of Microelectronics, [Tongji University](https://www.tongji.edu.cn/). My research interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, memory-centric computing, and hardware-software co-design**. Please feel free to contact me.
 
 ## 🔥 News {#news}
-* [2025/11] Awarded the **Best Presentation Award** at UCAS PhD Academic Forum 2025!🏆
+* [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Awarded the **National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at CCF Computility 2025.
@@ -71,7 +71,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
-* **Best Presentation Award** at UCAS PhD Academic Forum 2025
+* **Best Presentation Award** at UCAS Graduate Academic Forum 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
 * **Pacemaker to Merit Students 三好学生标兵** (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
@@ -82,7 +82,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🎤 Invited Talks {#talks}
 * **Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
-    ***[UCAS PhD Academic Forum 2025]()***, Beijing, China, Nov. 2025
+    ***[UCAS Graduate Academic Forum 2025]()***, Beijing, China, Nov. 2025
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
