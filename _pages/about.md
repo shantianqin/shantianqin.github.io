@@ -29,7 +29,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
-* Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE/EMA/ACES/JSPS Fellow**)
+* Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**)
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 📝 Selected Publications {#publications}
@@ -70,6 +70,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
+* **Best Presentation Award of the UCAS Postgraduate Academic Forum 2025**
 * **National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
 * **Pacemaker to Merit Students 三好学生标兵** (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
@@ -79,7 +80,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Second Prize (Silver Award)** at National Final, 7th "Internet+" Competition, 2021
 
 ## 🎤 Invited Talks {#talks}
-* **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
+* **Optimizing Data Access–Movement–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
+    ***[UCAS Postgraduate Academic Forum 2025]()***, Beijing, China, Nov. 2025
+* **Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
     ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
