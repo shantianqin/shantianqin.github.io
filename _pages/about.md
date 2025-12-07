@@ -55,7 +55,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. CN202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. CN202410263613.8, 2024.
 
-## 🛠️ Services {#services}
+## 👨‍🏫 Services {#services}
 **Academic Services**    
 * **IEEE ISCAS**, 2026, Reviewer (**TH-CPL B**)
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
