@@ -15,6 +15,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 ## 🔥 News {#news}
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
+* [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
 * [2025/11] Awarded the **National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at CCF Computility 2025.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
