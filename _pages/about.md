@@ -17,7 +17,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
 * [2025/11] Awarded the **China National Scholarship**!🏆
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at CCF Computility 2025.
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **Excellent PhD & Young Scholar Forum** of **CCF Computility 2025** (Academic Annual Conf. of CCF TC-DCS).
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
@@ -87,7 +87,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
     ***[UCAS Graduate Academic Forum 2025]()***, Beijing, China, Nov. 2025
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
-    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Young Scholar & Excellent PhD Forum)***, Lanzhou, China, Jul. 2025
+    ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Excellent PhD & Young Scholar Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
     ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
 * **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
