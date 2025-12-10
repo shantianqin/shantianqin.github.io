@@ -17,7 +17,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
 * [2025/11] Awarded the **China National Scholarship**!🏆
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **Excellent PhD & Young Scholar Forum** of **CCF Computility 2025** (Academic Annual Conf. of CCF TC-DCS).
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **CCF Computility 2025**.
 * [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
