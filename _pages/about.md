@@ -28,7 +28,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
-* GPA: 3.93/4, **China National Scholarship** (**top 0.4%**), **Pacemaker to Merit Students** (**top 1%**)
+* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Students** (**top 1%**)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
