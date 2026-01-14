@@ -13,12 +13,13 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
+* [2026/01] Awarded the **Pacemaker to Merit Student of State Key Laboratory of Processors**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
 * [2025/11] Awarded the **China National Scholarship**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **CCF Computility 2025**.
-* [2025/05] Awarded the **Pacemaker to Merit Students** of UCAS!🏆
+* [2025/05] Awarded the **Pacemaker to Merit Student** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
 * [2024/12] Awarded the **HYGON Named Scholarship** of ICT-CAS & HYGON!🏆
@@ -28,7 +29,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
 * Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
-* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Students** (**top 1%**)
+* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Student** (**top 1%**)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
@@ -76,7 +77,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## 🏅 Honors and Awards {#awards}
 * **Best Presentation Award** at UCAS Graduate Academic Forum 2025
 * **China National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
-* **Pacemaker to Merit Students 三好学生标兵** (**top 1%**), UCAS, 2025
+* **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
 * **First-Class** Outstanding Undergraduate Scholarship (top 5%), Tongji University, 2021-2022
