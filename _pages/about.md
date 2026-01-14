@@ -13,7 +13,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
-* [2026/01] Awarded the **Outstanding Student** of **State Key Laboratory of Processors (SKLP)**!🏆
+* [2026/01] Awarded the **Outstanding Student** of **State Key Laboratory of Processors**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
@@ -75,6 +75,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
+* **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **Best Presentation Award** at UCAS Graduate Academic Forum 2025
 * **China National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
