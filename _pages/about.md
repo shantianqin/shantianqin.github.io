@@ -14,14 +14,14 @@ My research focuses on developing **energy-efficient computer architectures** vi
 
 ## 🔥 News {#news}
 * [2026/01] Awarded the **Outstanding Student** of **State Key Laboratory of Processors**!🏆
-* [2025/11] Awarded the **Best Presentation Award** at *UCAS Academic Forum 2025*!🏆
-* [2025/11] One paper is accepted by ***DATE 2026***!🎉
-* [2025/11] Invited to serve as a reviewer for ***IEEE ISCAS 2026***.
+* [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
+* [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
+* [2025/11] Invited to serve as a reviewer for **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
 * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at ***CCF Computility 2025***.
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
 * [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
-* [2025/02] One paper is accepted by ***ACM TACO***!🎉
-* [2025/01] One paper is accepted by ***IEEE ISCAS 2025***!🎉
+* [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
+* [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
 * [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
 ## 🎓 Education {#education}
