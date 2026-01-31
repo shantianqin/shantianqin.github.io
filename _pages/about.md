@@ -17,9 +17,9 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **DATE 2026**!🎉
 * [2025/11] Invited to serve as a reviewer for **IEEE ISCAS 2026**.
-* [2025/11] Awarded the **China National Scholarship**!🏆
+* [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **CCF Computility 2025**.
-* [2025/05] Awarded the **Pacemaker to Merit Student** of UCAS!🏆
+* [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
 * [2025/02] One paper is accepted by **ACM TACO**!🎉
 * [2025/01] One paper is accepted by **IEEE ISCAS 2025**!🎉
 * [2024/12] Awarded the **HYGON Named Scholarship** of ICT-CAS & HYGON!🏆
@@ -77,7 +77,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## 🏅 Honors and Awards {#awards}
 * **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **Best Presentation Award** at UCAS Graduate Academic Forum 2025
-* **China National Scholarship 国家奖学金** (**top 0.4%**), China, 2025
+* **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
 * HYGON Named Scholarship (2/200+), ICT-CAS & HYGON, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
