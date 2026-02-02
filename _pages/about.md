@@ -13,7 +13,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
-* [2026/02] Invited to serve as the **TPC member** of **[IEEE MCSoC ((Multicore/Many-core Systems-on-Chip) 2026](https://mcsoc-forum.org/site)**.
+* [2026/02] Invited to serve as the **TPC member** of **[IEEE MCSoC (Multicore/Many-core Systems-on-Chip) 2026](https://mcsoc-forum.org/site)**.
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
