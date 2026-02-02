@@ -13,10 +13,11 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
+* [2026/02] Invited to serve as a TPC member of **[IEEE MCSoC 2026]()**.
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
-* [2025/11] Invited to serve as a reviewer for **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
+* [2025/11] Invited to serve as a reviewer of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
 * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
 * [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
@@ -58,6 +59,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
+* **IEEE MCSoC**, 2026, TPC Member
 * **IEEE ISCAS**, 2026, Reviewer (**TH-CPL B**)
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
