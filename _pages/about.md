@@ -59,7 +59,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* **IEEE MCSoC**, 2026, TPC Member
+* **IEEE MCSoC (Multicore and Many-core Systems-on-Chip)**, 2026, TPC Member
 * **IEEE ISCAS**, 2026, Reviewer (**TH-CPL B**)
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
