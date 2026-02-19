@@ -17,7 +17,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
-* [2025/11] Invited to serve as the reviewer of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
+* [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
 * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
 * [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
