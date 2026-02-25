@@ -13,6 +13,7 @@ I am  currently a third-year Ph.D. student at [Institute of Computing Technology
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
+* [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
 * [2026/02] Invited to serve as the **TPC member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
@@ -39,6 +40,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 📝 Selected Publications {#publications}
+* ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
+    Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
+    ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF A**)
 * ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
     T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
     ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
