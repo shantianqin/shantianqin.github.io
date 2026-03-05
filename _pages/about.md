@@ -51,7 +51,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     ***ACM TACO***, 2025, vol. 22, no. 2, article 62, pp. 1-27 (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
     **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
-    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**TH-CPL B**)
+    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**CCF B**)
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
     ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
@@ -64,7 +64,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
 * **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, TPC Member
-* **IEEE ISCAS**, 2026, Reviewer (**TH-CPL B**)
+* **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **Sustainable Computing: Informatics & Systems (SUSCOM)**, 2025, Sub-Reviewer (**JCR Q1**)
