@@ -26,19 +26,6 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
 * [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
-## 🎓 Education {#education}
-  Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
-* **State Key Laboratory of Processors**
-* **Ph.D.** in Computer Science and Technology (Computer Architecture)
-* Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
-* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Student** (**top 1%**)
-
-Sep. 2019 - Jul. 2023: **Tongji University**
-* **National Demonstration School of Microelectronics**
-* **B.Eng.** in Electronic Science and Technology (Microelectronics)
-* Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**)
-* GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
-
 ## 📝 Selected Publications {#publications}
 * ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
     Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
@@ -60,6 +47,19 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. CN202511335451.5, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春. 一种数据流架构的半集中式动态任务调度装置及方法. CN202510890805.6, 2025.
 * **秦善天**, 李文明, 范志华, 安学军, 叶笑春, 范东睿. 一种数据流众核处理器的数据预取方法及处理器. CN202410263613.8, 2024.
+
+## 🎓 Education {#education}
+  Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
+* **State Key Laboratory of Processors**
+* **Ph.D.** in Computer Science and Technology (Computer Architecture)
+* Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+* GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Student** (**top 1%**)
+
+Sep. 2019 - Jul. 2023: **Tongji University**
+* **National Demonstration School of Microelectronics**
+* **B.Eng.** in Electronic Science and Technology (Microelectronics)
+* Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**)
+* GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
