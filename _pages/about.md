@@ -88,8 +88,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **HYGON Scholarship 海光奖学金** (**2/200+**), ICT-CAS & HYGON, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
 * **First-Class** Outstanding Undergraduate Scholarship (top 5%), Tongji University, 2021-2022
-* **First Prize (Gold Award)** at National Final, 13th "Challenge Cup" Competition, 2023
-* **Second Prize (Silver Award)** at National Final, 7th "Internet+" Competition, 2021
+* **First Prize (Gold Award) at National Final 全国金奖**, 13th "Challenge Cup" Competition, 2023
+* **Second Prize (Silver Award) at National Final 全国银奖**, 7th "Internet+" Competition, 2021
 
 ## 🎤 Invited Talks {#talks}
 * **Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
