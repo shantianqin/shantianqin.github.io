@@ -14,7 +14,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 
 ## 🔥 News {#news}
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
-* [2026/02] Invited to serve as the **TPC member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
+* [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
@@ -63,7 +63,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
-* **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, TPC Member
+* **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
 * **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
