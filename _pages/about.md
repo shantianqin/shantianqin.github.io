@@ -81,6 +81,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
+* **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
 * **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **Best Presentation Award** at UCAS Graduate Academic Forum 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
