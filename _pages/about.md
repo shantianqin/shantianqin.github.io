@@ -82,8 +82,8 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🏅 Honors and Awards {#awards}
 * **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
-* **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **Best Presentation Award** at UCAS Graduate Academic Forum 2025
+* **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
 * **HYGON Scholarship 海光奖学金** (**2/200+**), ICT-CAS & HYGON, 2024
