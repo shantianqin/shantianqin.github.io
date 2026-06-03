@@ -13,6 +13,7 @@ I am  currently a Ph.D. candidate at [Institute of Computing Technology (ICT), C
 My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
+* [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
 * [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
 * [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
@@ -65,6 +66,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 **Academic Services**    
 * **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
 * **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
+* **IEEE APCCAS**, 2026, Reviewer
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
 * **Future Generation Computer Systems (FGCS)**, 2025, Sub-Reviewer (**JCR Q1**)
 * **Sustainable Computing: Informatics & Systems (SUSCOM)**, 2025, Sub-Reviewer (**JCR Q1**)
