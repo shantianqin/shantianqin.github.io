@@ -31,7 +31,7 @@ My research focuses on developing **energy-efficient computer architectures** vi
 * ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
     Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
     ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF A**)
-* ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference]()***\
+* ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference](https://ieeexplore.ieee.org/document/11539157)***\
     T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
     ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
