@@ -10,7 +10,7 @@ redirect_from:
 {:#aboutme}
 I am  currently a Ph.D. candidate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from [Tongji University](https://www.tongji.edu.cn/), advised by [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (IEEE Fellow). 
 
-My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **dataflow-driven AI chip design, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
+My research focuses on developing **energy-efficient computer architectures** via **hardware-software co-design**, with a special emphasis on data-intensive applications like emerging AI and big data analytics. My current interests include **AI chip design, dataflow execution model, reconfigurable computing, RISC-V ISA extensions, and memory-centric computing**. 
 
 ## 🔥 News {#news}
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
@@ -103,29 +103,6 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
 * **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
     ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
-
-## 🔍 Research Experiences {#research}
-
-My research focuses on **Hardware-Software Co-Design of Dataflow-Driven Execution Model for Emerging AI Applications**, with the following directions:
-* ***Dataflow-Driven Data Prefetching***
-* ***Dataflow-Driven Task Scheduling***
-* ***Dataflow-Driven RISC-V Extensions***
-* ***Dataflow-Driven In-Memory Computing***
-
-I aim to optimize dataflow-driven data prefetching, task scheduling, in-memory computing, and RISC-V extension via **Algorithm-Architecture-Circuit Co-Design** for emerging AI, cryptography, and graph applications, particularly in accelerating sparse scenarios.
-
-**Dataflow-Driven RISC-V Extensions**
-* **[DATE'26]** RISC-V ISA Extensions for Unstructured Sparse SpMM in LLM Inference
-
-**Dataflow-Driven Task Scheduling**
-* **[Under Review]** Dynamic Scheduling Ideal Paradigm for Dataflow Architecture
-* **[ACM TACO'25]** PANDA: Decentralized Dataflow PE and Distributed Task Scheduling
-
-**Dataflow-Driven In-Memory Computing**
-* **[IEEE ISCAS'25]** StreamDCIM: Tile-Based Streaming Digital CIM for Multimodal Transformer
-
-**Dataflow-Driven Data Prefetching**
-* **[IEEE HPCC'23]** ROMA: Reconfigurable On-Chip Memory Architecture
 
 ## 🧑‍💻 Industry Experiences {#internship}
 **SmarCo (中科睿芯)**    (Feb. 2023 - Present)  
