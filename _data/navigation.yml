@@ -11,14 +11,14 @@ main:
   - title: "News"
     url: /#news
 
-  - title: "Education"
-    url: /#education
-
   - title: "Publications"
     url: /#publications
 
   #- title: "Patents"
   #  url: /#patents
+
+  - title: "Education"
+    url: /#education
 
   - title: "Services"
     url: /#services
