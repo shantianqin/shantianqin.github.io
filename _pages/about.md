@@ -105,7 +105,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
 ## 🧑‍💻 Industry Experiences {#internship}
-**SmarCo (中科睿芯)**    (2023 - Present)  
+**SmarCo 中科睿芯**    (2023 - Present)  
 * Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: **Dataflow-Driven AI Accelerator and RISC-V Processor Chip Design**
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
