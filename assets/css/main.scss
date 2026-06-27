@@ -43,15 +43,10 @@
 .industry-title {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   margin-top: 1.0em;
   margin-bottom: 0.6em;
   font-size: 1.05em;
-}
-
-.industry-title .period {
-  font-weight: normal;
-  color: #555;
 }
 
 .company-logo {
@@ -61,9 +56,14 @@
 }
 
 .smarco-logo {
-  height: 20px;
+  height: 24px;
 }
 
 .amd-logo {
   height: 22px;
+}
+
+.period {
+  font-weight: normal;
+  color: #555;
 }
