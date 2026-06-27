@@ -39,3 +39,31 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.industry-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 1.0em;
+  margin-bottom: 0.6em;
+  font-size: 1.05em;
+}
+
+.industry-title .period {
+  font-weight: normal;
+  color: #555;
+}
+
+.company-logo {
+  width: auto;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+.smarco-logo {
+  height: 20px;
+}
+
+.amd-logo {
+  height: 22px;
+}
