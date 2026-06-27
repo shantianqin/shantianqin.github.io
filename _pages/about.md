@@ -105,14 +105,22 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
 ## 🧑‍💻 Industry Experiences {#internship}
-**SmarCo 中科睿芯**  <img src="{{ '/images/SMARCO_Logo.png' | relative_url }}" alt="SMARCO" style="height: 14px; width: auto; vertical-align: middle; margin-left: 4px;">  (2023 - Present)  
+<div class="industry-title">
+  <span><strong>SmarCo 中科睿芯</strong> <span class="period">(2023 - Present)</span></span>
+  <img class="company-logo smarco-logo" src="{{ '/images/SMARCO_Logo.png' | relative_url }}" alt="SmarCo">
+</div>
+
 * Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: **Dataflow-Driven AI Accelerator and RISC-V Processor Chip Design**
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
   - Simulator: Processing Element (Tensor Core) & On-Chip Memory (Data Buffer) & Data Transfer (INT8/FP16 Matrix Normal/Transpose Mode) optimization, SIMD/Logic & Load/Store instructions exetension 
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
-**AMD 超威半导体**  <img src="{{ '/images/AMD_Logo.png' | relative_url }}" alt="AMD" style="height: 14px; width: auto; vertical-align: middle; margin-left: 4px;">  (2022 - 2023)
+<div class="industry-title">
+  <span><strong>AMD 超威半导体</strong> <span class="period">(2022 - 2023)</span></span>
+  <img class="company-logo amd-logo" src="{{ '/images/AMD_Logo.png' | relative_url }}" alt="AMD">
+</div>
+
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
