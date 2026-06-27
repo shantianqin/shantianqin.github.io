@@ -123,7 +123,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   <span class="period">(2022 - 2023)</span>
 </div>
 
-* Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
+* Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Li
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
 ## ✉️ Contact {#contact}
