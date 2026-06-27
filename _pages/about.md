@@ -10,7 +10,7 @@ redirect_from:
 {:#aboutme}
 I am  currently a Ph.D. candidate at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, I obtained my bachelor's degree from [Tongji University](https://www.tongji.edu.cn/), advised by [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (IEEE Fellow). 
 
-My research focuses on developing energy-efficient computer architectures through hardware-software co-design and innovative computing paradigms. My current interests include dataflow architecture, reconfigurable computing, memory-centric computing, and RISC-V ISA extensions, targeting high-throughput computing and emerging AI applications such as large language models (LLMs) and vision-language models (VLMs).
+My research focuses on developing energy-efficient computer architectures through hardware-software co-design and innovative computing paradigms. My current interests include dataflow architecture, reconfigurable computing, memory-centric computing, and RISC-V ISA extensions, targeting high-throughput computing and emerging AI applications like large language models (LLMs) and vision-language models (VLMs).
 
 ## 🔥 News {#news}
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
