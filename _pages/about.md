@@ -106,8 +106,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🧑‍💻 Industry Experiences {#internship}
 <div class="industry-title">
-  <span><strong>SmarCo 中科睿芯</strong> <span class="period">(2023 - Present)</span></span>
   <img class="company-logo smarco-logo" src="{{ '/images/SMARCO_Logo.png' | relative_url }}" alt="SmarCo">
+  <strong>中科睿芯</strong>
+  <span class="period">(2023 - Present)</span>
 </div>
 
 * Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
@@ -117,8 +118,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
 <div class="industry-title">
-  <span><strong>AMD 超威半导体</strong> <span class="period">(2022 - 2023)</span></span>
   <img class="company-logo amd-logo" src="{{ '/images/AMD_Logo.png' | relative_url }}" alt="AMD">
+  <strong>超威半导体</strong>
+  <span class="period">(2022 - 2023)</span>
 </div>
 
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
