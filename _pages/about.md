@@ -112,7 +112,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   - Simulator: Processing Element (Tensor Core) & On-Chip Memory (Data Buffer) & Data Transfer (INT8/FP16 Matrix Normal/Transpose Mode) optimization, SIMD/Logic & Load/Store instructions exetension 
   - Runtime: Runtime design for multi-application dynamic scheduling 
 
-**AMD**    (2022 - 2023)
+**AMD 超威半导体**    (2022 - 2023)
 * Intern in Xilinx HLS Software Department, mentored by Dr. Yuanjie Huang and Tuo Lin
 * Development of hardware-accelerated open-source libraries for Xilinx FPGA and Versal ACAP hardware platforms
 
