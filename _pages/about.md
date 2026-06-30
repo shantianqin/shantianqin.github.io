@@ -53,13 +53,13 @@ My research focuses on developing energy-efficient computer architectures throug
   Sep. 2023 - Present: **Institute of Computing Technology, Chinese Academy of Sciences**
 * **State Key Laboratory of Processors**
 * **Ph.D.** in Computer Science and Technology (Computer Architecture)
-* Advisor: [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming), [Prof. Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and [Prof. Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+* Advisor: Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming), Prof. [Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and Prof. [Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
 * GPA: 3.93/4, **National Scholarship** (**top 0.4%**), **Pacemaker to Merit Student** (**top 1%**)
 
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
-* Advisor: [Prof. Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**)
+* Advisor: Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**)
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 👨‍🏫 Services {#services}
@@ -111,7 +111,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
   <span class="period">(2023 - Present)</span>
 </div>
 
-* Intern in Processor Architecture Group, supervised by [Prof. Wenming Li](https://people.ucas.edu.cn/~liwenming)
+* Intern in Processor Architecture Group, supervised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming)
 * Overview: **Dataflow-Driven AI Accelerator and RISC-V Processor Chip Design**
   - RTL: ScratchPad Memory and Cache reusable on-chip memory implementation
   - Simulator: Processing Element (Tensor Core) & On-Chip Memory (Data Buffer) & Data Transfer (INT8/FP16 Matrix Normal/Transpose Mode) optimization, SIMD/Logic & Load/Store instructions exetension 
