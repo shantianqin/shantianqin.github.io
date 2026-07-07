@@ -13,6 +13,7 @@ I am a Ph.D. candidate at the [Institute of Computing Technology (ICT), Chinese 
 My research focuses on developing energy-efficient computer architectures through hardware-software co-design and innovative computing paradigms. My current interests include dataflow architecture, reconfigurable computing, memory-centric computing, and RISC-V ISA extensions, targeting high-throughput computing and emerging AI applications like large language models (LLMs) and vision-language models (VLMs).
 
 ## 🔥 News {#news}
+* [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
 * [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
@@ -28,6 +29,9 @@ My research focuses on developing energy-efficient computer architectures throug
 * [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
 ## 📝 Selected Publications {#publications}
+* ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format]()***\
+    T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
+    ***IEEE TCAD***, 2026, Just Accept (**CCF A**)
 * ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
     Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
     ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF A**)
