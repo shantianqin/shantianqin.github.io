@@ -63,7 +63,7 @@ My research focuses on developing energy-efficient computer architectures throug
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
-* Advisor: Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**), under whose supervision I conducted undergraduate research that resulted in a paper published at ACES 2023 (CIE Class I Conference)
+* Advisor: Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**), who supervised my undergraduate research leading to a paper published at ACES 2022 (CIE Class I Conference)
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 👨‍🏫 Services {#services}
