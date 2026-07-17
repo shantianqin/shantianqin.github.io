@@ -16,65 +16,20 @@ My research focuses on developing energy-efficient computer architectures throug
 
 <div class="news-scroll">
 
-<ul>
-
-<li>
-[2026/07] One paper is accepted by <b><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43">IEEE TCAD</a></b>!🎉
-</li>
-
-<li>
-[2026/06] Invited to serve as the <b>Reviewer</b> of <b><a href="https://apccas2026.org">IEEE APCCAS 2026</a></b>.
-</li>
-
-<li>
-[2026/03] One paper is accepted by <b><a href="https://dac.com/2026">DAC 2026</a></b>!🎉
-</li>
-
-<li>
-[2026/02] Invited to serve as the <b>PC Member</b> of <b><a href="https://mcsoc-forum.org/site">IEEE MCSoC 2026</a></b>.
-</li>
-
-<li>
-[2026/01] Awarded the <b>Outstanding Student</b> of <b><a href="https://sklp.ict.ac.cn">State Key Laboratory of Processors</a></b>!🏆
-</li>
-
-<li>
-[2025/11] Awarded the <b>Best Presentation Award</b> at UCAS Academic Forum 2025!🏆
-</li>
-
-<li>
-[2025/11] One paper is accepted by <b><a href="https://date26.date-conference.com">DATE 2026</a></b>!🎉
-</li>
-
-<li>
-[2025/11] Invited to serve as the <b>Reviewer</b> of <b><a href="https://2026.ieee-iscas.org">IEEE ISCAS 2026</a></b>.
-</li>
-
-<li>
-[2025/11] Awarded the <b>National Scholarship 国家奖学金</b>!🏆
-</li>
-
-<li>
-[2025/07] Giving a talk on <b>Edge-AI Dataflow Accelerators</b> at <b><a href="https://conf.ccf.org.cn">CCF Computility 2025</a></b>.
-</li>
-
-<li>
-[2025/05] Awarded the <b>Pacemaker to Merit Student 三好学生标兵</b> of UCAS!🏆
-</li>
-
-<li>
-[2025/02] One paper is accepted by <b><a href="https://dl.acm.org/journal/taco">ACM TACO</a></b>!🎉
-</li>
-
-<li>
-[2025/01] One paper is accepted by <b><a href="https://2025.ieee-iscas.org">IEEE ISCAS 2025</a></b>!🎉
-</li>
-
-<li>
-[2024/12] Awarded the <b>HYGON Scholarship 海光奖学金</b> of ICT-CAS & HYGON!🏆
-</li>
-
-</ul>
+* [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
+* [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
+* [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
+* [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
+* [2026/01] Awarded the **Outstanding Student** of **[State Key Laboratory of Processors](https://sklp.ict.ac.cn)**!🏆
+* [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
+* [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
+* [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
+* [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
+* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
+* [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
+* [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
+* [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
+* [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
 </div>
 
