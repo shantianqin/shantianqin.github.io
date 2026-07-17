@@ -413,9 +413,8 @@
 
 
 
-
 .news-scroll {
-    height: 480px;
+    height: 420px;
     overflow-y: scroll;
     padding-right: 15px;
     width: 100%;
@@ -434,6 +433,11 @@
 
 .news-scroll::-webkit-scrollbar {
     width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-button:single-button {
+    display: block;
+    height: 12px;
 }
 
 .news-scroll::-webkit-scrollbar-thumb {
