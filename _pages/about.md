@@ -77,6 +77,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 **Academic Services**    
+### Program Committee Member
 * **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
 * **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
 * **IEEE APCCAS**, 2026, Reviewer
