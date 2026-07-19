@@ -76,7 +76,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 👨‍🏫 Services {#services}
-**Academic Services**
+### Academic Services
 * **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
 * **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
 * **IEEE APCCAS**, 2026, Reviewer
@@ -91,7 +91,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ### Professional Affiliations    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
 
-**Volunteer Services and Leaderships**    
+### Volunteer Services and Leaderships    
 * **Vice President** and Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
 * **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
 
