@@ -14,7 +14,9 @@ My research focuses on developing energy-efficient computer architectures throug
 
 ## 🔥 News {#news}
 
+<!--
 <div class="news-scroll" markdown="1">
+-->
 
 * [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
@@ -31,7 +33,9 @@ My research focuses on developing energy-efficient computer architectures throug
 * [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
 * [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
+<!--
 </div>
+-->
 
 ## 📝 Selected Publications {#publications}
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format]()***\
