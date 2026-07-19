@@ -93,7 +93,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ### Volunteer Services and Leaderships    
 * **Vice President** and Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
-* **Member of the Executive Committee** of Student Union, Tongji University, 2021-2022
+* **Executive Committee Member** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
 * **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
