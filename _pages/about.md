@@ -16,8 +16,7 @@ My research focuses on developing energy-efficient computer architectures throug
 
 <div class="news-scroll" markdown="1">
 
-* [2026/07] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
-* [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
+* [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
 * [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
