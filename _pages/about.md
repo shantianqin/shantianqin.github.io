@@ -14,9 +14,7 @@ My research focuses on developing energy-efficient computer architectures throug
 
 ## 🔥 News {#news}
 
-<!--
 <div class="news-scroll" markdown="1">
--->
 
 * [2026/07] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
 * [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
@@ -34,9 +32,7 @@ My research focuses on developing energy-efficient computer architectures throug
 * [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
 * [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
 
-<!--
 </div>
--->
 
 ## 📝 Selected Publications {#publications}
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design]()***\
