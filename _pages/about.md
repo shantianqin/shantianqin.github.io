@@ -18,6 +18,7 @@ My research focuses on developing energy-efficient computer architectures throug
 <div class="news-scroll" markdown="1">
 -->
 
+* [2026/07] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
 * [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
 * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
@@ -38,6 +39,9 @@ My research focuses on developing energy-efficient computer architectures throug
 -->
 
 ## 📝 Selected Publications {#publications}
+* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures]()***\
+    **<u>S. Qin</u>**, Z. Fan, D. Fan, C. Ye, W. Li\
+    ***ACM TACO***, 2026, Just Accept (**CCF A**)
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format]()***\
     T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
     ***IEEE TCAD***, 2026, Just Accept (**CCF A**)
