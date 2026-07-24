@@ -95,7 +95,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🏅 Honors and Awards {#awards}
 * **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
-* **Best Presentation Award** at UCAS Graduate Academic Forum 2025
+* **Best Presentation Award**, UCAS Academic Forum 2025
 * **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
@@ -107,7 +107,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🎤 Invited Talks {#talks}
 * **Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Applications via Hardware-Software Co-Design**\
-    ***[UCAS Graduate Academic Forum 2025]() (Best Presentation Award)***, Beijing, China, Nov. 2025
+    ***[UCAS Academic Forum 2025]() (Best Presentation Award)***, Beijing, China, Nov. 2025
 * **Research on Decentralized Task Scheduling for Edge Intelligence Accelerators**\
     ***[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Excellent PhD & Young Scholar Forum)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
