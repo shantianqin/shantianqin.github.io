@@ -112,6 +112,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
     ***[CCF Computility 2025 (Excellent PhD & Young Scholar Forum)](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)***, Lanzhou, China, Jul. 2025
 * **StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer**\
     ***[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)***, London, United Kingdom, May 2025
+    ***[29th ACM SIGOPS China Workshop on Computer Systems (Chinasys'25 Winter)]() (Spotlight)***, Changchun, China, Dec. 2025
 * **ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators**\
     ***[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)***, Melbourne, Australia, Dec. 2023
 
