@@ -75,9 +75,9 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 ### Academic Services
-* **Program Committee:** [IEEE MCSoC 2026](https://mcsoc-forum.org/site)
-* **Conference Reviewer:** [IEEE ISCAS 2026](https://2026.ieee-iscas.org) (CCF B), [IEEE APCCAS 2026](https://apccas2026.org), [IEEE ISPA 2025](https://ieee-ai-for-science.org/2025/ispa/index.php) (CCF C), [HPC China 2025](https://conf.ccf.org.cn/web/api/m1344312973606391808174055078903.action), [CCF NCCET 2025](https://conf.ccf.org.cn/web/api/m1381641832433324032174945068251.action)
-* **Journal Reviewer:** [PARCO](https://www.sciencedirect.com/journal/parallel-computing) (CCF B), [FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems) (JCR Q1), [SUSCOM](https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems) (JCR Q1), [Scientific Reports](https://www.nature.com/srep/) (JCR Q1), [TJSC](https://link.springer.com/journal/11227) (JCR Q2)
+* **Program Committee:** ***[IEEE MCSoC 2026](https://mcsoc-forum.org/site)***
+* **Conference Reviewer:** ***[IEEE ISCAS 2026](https://2026.ieee-iscas.org) (CCF B)***, ***[IEEE APCCAS 2026](https://apccas2026.org)***, ***[IEEE ISPA 2025](https://ieee-ai-for-science.org/2025/ispa/index.php) (CCF C)***, ***[HPC China 2025](https://conf.ccf.org.cn/web/api/m1344312973606391808174055078903.action)***, ***[CCF NCCET 2025](https://conf.ccf.org.cn/web/api/m1381641832433324032174945068251.action)***
+* **Journal Reviewer:** ***[PARCO](https://www.sciencedirect.com/journal/parallel-computing) (CCF B)***, ***[FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems) (JCR Q1)***, ***[SUSCOM](https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems) (JCR Q1)***, ***[Scientific Reports](https://www.nature.com/srep/) (JCR Q1)***, ***[TJSC](https://link.springer.com/journal/11227) (JCR Q2)***
 
 <!--
 * IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
