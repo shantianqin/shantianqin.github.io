@@ -75,7 +75,11 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 👨‍🏫 Services {#services}
 ### Academic Services
-* **IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
+* **Program Committee:** IEEE MCSoC 2026
+* **Conference/Journal Reviewer:** IEEE ISCAS 2026 (CCF B), IEEE APCCAS 2026, Parallel Computing (PARCO, CCF B), Future Generation Computer Systems (FGCS, JCR Q1), Sustainable Computing: Informatics & Systems (SUSCOM, JCR Q1), The Journal of Supercomputing (TJSC, JCR Q2), IEEE ISPA 2025, HPC-China 2025, CCF NCCET 2025
+
+<!--
+* IEEE MCSoC (Multicore/Many-core Systems-on-Chip)**, 2026, PC Member
 * **IEEE ISCAS**, 2026, Reviewer (**CCF B**)
 * **IEEE APCCAS**, 2026, Reviewer
 * **Parallel Computing (PARCO)**, 2025, Sub-Reviewer (**CCF B**)
@@ -85,6 +89,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **IEEE ISPA**, 2025, Sub-Reviewer (**CCF C**)
 * **CCF HPC China**, 2025, Sub-Reviewer (**Academic Annual Conf. of CCF TC-HPC**)
 * **CCF NCCET**, 2025, Sub-Reviewer (**Academic Annual Conf. of CCF TC-CET**)
+-->
 
 ### Professional Affiliations    
 * Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
