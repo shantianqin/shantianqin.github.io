@@ -33,7 +33,7 @@ My research focuses on developing energy-efficient computer architectures throug
 </div>
 
 ## 📝 Selected Publications {#publications}
-* ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design]()***\
+* ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
     **<u>S. Qin</u>**, Z. Fan, D. Fan, X. Ye, W. Li\
     ***ACM TACO***, 2026, Just Accept (**CCF A**)
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](https://ieeexplore.ieee.org/document/11614540)***\
