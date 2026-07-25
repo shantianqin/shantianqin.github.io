@@ -45,7 +45,7 @@ My research focuses on developing energy-efficient computer architectures throug
 * ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference](https://ieeexplore.ieee.org/document/11539157)***\
     T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
     ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
-* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/abs/10.1145/3721288)***\
+* ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
     ***ACM TACO***, 2025, vol. 22, no. 2, article 62, pp. 1-27 (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
