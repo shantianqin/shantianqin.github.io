@@ -148,5 +148,5 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## ✉️ Contact {#contact}
 * Email: qinshantian23s [at] ict [dot] ac [dot] cn
 * Address: Building 1, Institute of Computing Technology, Chinese Academy of Sciences, Environmental Science and Technology Park, Beiqing Road, Haidian District, Beijing, China
-<br/><br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=tt&d=CU1EgYlIukGzOjaTqOs1NjoHeyavMCGqzBHzTFTi6EY&co=ffffff&cmn=ff5353&cmo=3acc3a&ct=ababab'></script>
+<br/>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=D1ozHcbbMxyUEsowGRrQLEV8ZYPIVdyWJysSl7OhfK0&cl=ffffff&w=a"></script>
