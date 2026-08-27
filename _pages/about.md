@@ -150,4 +150,4 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * Address: Building 1, Institute of Computing Technology, Chinese Academy of Sciences, Environmental Science and Technology Park, Beiqing Road, Haidian District, Beijing, China
 <br/><br/>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=D1ozHcbbMxyUEsowGRrQLEV8ZYPIVdyWJysSl7OhfK0&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=D1ozHcbbMxyUEsowGRrQLEV8ZYPIVdyWJysSl7OhfK0&cl=ffffff&w=450"></script>
