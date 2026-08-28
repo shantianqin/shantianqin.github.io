@@ -94,7 +94,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 -->
 
 ### Professional Affiliations    
-* Graduate Student Member: **IEEE (IEEE CS, IEEE CASS, IEEE CEDA), ACM, CCF**
+* Graduate Student Member: **[IEEE (IEEE CS, IEEE CASS, IEEE CEDA)](https://shantianqin.github.io/files/ieee-member-card.pdf), [ACM](https://shantianqin.github.io/files/acm-member-card.pdf), [CCF](https://shantianqin.github.io/files/ccf-member-card.pdf), [CIE](https://shantianqin.github.io/files/cie-member-card.png)**
 
 ### Volunteer Services and Leaderships    
 * **Vice President** and Head of the Popular Science Department of Student Association for Science and Technology, ICT-CAS, 2024-Present
