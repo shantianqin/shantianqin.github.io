@@ -14,7 +14,8 @@ His research focuses on developing energy-efficient computer architectures throu
 
 His work has appeared in top journals and conferences on computer architecture and integrated circuits, including [ACM TACO](https://dl.acm.org/journal/taco), [IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43), [DAC](https://dac.com/2026), and [DATE](https://date26.date-conference.com). He has served as a PC member and reviewer for several international conferences, including [IEEE ISCAS 2026](https://2026.ieee-iscas.org), [IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html), [IEEE MCSoC 2026](https://mcsoc-forum.org/site), and [IEEE APCCAS 2026](https://apccas2026.org). He also gave an invited talk on Edge-AI Dataflow Accelerators at [CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action).
 
-He has also received the China National Scholarship (2025), the UCAS Pacemaker to Merit Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
+<!-- He was selected for the China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students (Nominated by CCF). -->
+He has also received the China National Scholarship (2025), the HYGON Scholarship (2024), the UCAS Pacemaker to Merit Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
 
 Please feel free to reach out for research discussions and potential collaborations.
 
@@ -32,10 +33,10 @@ Please feel free to reach out for research discussions and potential collaborati
 <!-- * [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**. -->
 * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
-* [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
+* [2025/05] Awarded the **UCAS Pacemaker to Merit Student 三好学生标兵**!🏆
 * [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
 * [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
-* [2024/12] Awarded the **HYGON Scholarship 海光奖学金** of ICT-CAS & HYGON!🏆
+* [2024/12] Awarded the **HYGON Scholarship 海光奖学金**!🏆
 
 </div>
 
@@ -112,7 +113,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Outstanding Student** of **State Key Laboratory of Processors**, 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
-* **HYGON Scholarship 海光奖学金** (**2/200+**), ICT-CAS & HYGON, 2024
+* **HYGON Scholarship 海光奖学金** (**2/200+**), HYGON & ICT-CAS, 2024
 * **First-Class** Graduate Academic Scholarship, UCAS, 2023-2025
 * **First-Class** Outstanding Undergraduate Scholarship (top 5%), Tongji University, 2021-2022
 * **Gold Award at National Final 全国金奖**, 13th "Challenge Cup" Competition, 2023
