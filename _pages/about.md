@@ -16,7 +16,7 @@ His work has appeared in top journals and conferences on computer architecture a
 
 He has also received the China National Scholarship (2025), the UCAS Pacemaker to Merit Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
 
-**Please feel free to reach out if you’d like to discuss research topics or collaborate!**
+Please feel free to reach out for research discussions and potential collaborations.
 
 ## 🔥 News {#news}
 
