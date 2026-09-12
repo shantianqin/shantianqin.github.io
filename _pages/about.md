@@ -20,14 +20,14 @@ He has also received the China National Scholarship (2025), the UCAS Pacemaker t
 
 <div class="news-scroll" markdown="1">
 
-* [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**.
+<!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
 * [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
-* [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**.
+<!-- * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**. -->
 * [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
-* [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**.
+<!-- * [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**. -->
 * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
-* [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**.
+<!-- * [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**. -->
 * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
 * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
 * [2025/05] Awarded the **Pacemaker to Merit Student 三好学生标兵** of UCAS!🏆
