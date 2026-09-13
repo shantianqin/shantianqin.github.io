@@ -28,8 +28,10 @@ Please feel free to reach out for research discussions and potential collaborati
 
 * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
 <!-- 
-* *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
-* *2026.10*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
+* *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
+<!-- 
+* *2026.10*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
+<!-- 
 * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
  -->
 <!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
