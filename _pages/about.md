@@ -26,6 +26,8 @@ Please feel free to reach out for research discussions and potential collaborati
 <div class="news-scroll" markdown="1"> 
 -->
 
+* *2026.07*: 🎉 One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A)
+* *2026.07*: 🎉 One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)** (CCF-A)
 <!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
 <!-- * [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉 -->
 * [2026/07] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A) 🎉
