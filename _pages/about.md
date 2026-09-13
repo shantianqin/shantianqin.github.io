@@ -43,7 +43,9 @@ Please feel free to reach out for research discussions and potential collaborati
 * [2025/01] One paper is accepted by **[ISCAS 2025](https://2025.ieee-iscas.org)** (CCF-B) 🎉
 <!-- * [2024/12] Awarded the **HYGON Scholarship 海光奖学金**!🏆 -->
 
+<!-- 
 </div>
+-->
 
 ## 📝 Selected Publications {#publications}
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
