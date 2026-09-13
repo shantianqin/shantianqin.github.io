@@ -38,7 +38,7 @@ Please feel free to reach out for research discussions and potential collaborati
 <!-- * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**. -->
 <!-- * [2025/05] Awarded the **UCAS Pacemaker to Merit Student 三好学生标兵**!🏆 -->
 * [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A)🎉
-* [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)** (CCF-B)🎉
+* [2025/01] One paper is accepted by **[ISCAS 2025](https://2025.ieee-iscas.org)** (CCF-B)🎉
 <!-- * [2024/12] Awarded the **HYGON Scholarship 海光奖学金**!🏆 -->
 
 </div>
