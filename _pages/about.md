@@ -10,9 +10,10 @@ redirect_from:
 {:#aboutme}
 Shantian Qin is a Ph.D. candidate at the [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), also with the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. [Wenming Li](https://people.ucas.edu.cn/~liwenming), Prof. [Dongrui Fan](https://people.ucas.edu.cn/~fandongrui), and Prof. [Xiaochun Ye](https://ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html). Previously, he received his bachelor’s degree from [Tongji University](https://www.tongji.edu.cn/), advised by Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (IEEE Fellow), and also interned at AMD and SmarCo’s Processor Architecture Group.
 
-His research focuses on developing energy-efficient computer architectures through hardware-software co-design and innovative computing paradigms. His current interests include dataflow architecture, reconfigurable computing, memory-centric computing, and RISC-V ISA extensions, targeting high-throughput computing and emerging AI applications like large language models (LLMs) and vision-language models (VLMs).
+His research focuses on developing energy-efficient computer architectures through hardware-software co-design and innovative computing paradigms. His current interests include dataflow architecture, reconfigurable computing, memory-centric computing, and RISC-V ISA extensions, targeting high-throughput computing and emerging AI applications like large language models (LLMs) and vision-language models (VLMs). 
+His work has appeared in top journals and conferences on computer architecture and integrated circuits, including ACM TACO, IEEE TCAD, DAC, and DATE.
 
-His work has appeared in top journals and conferences on computer architecture and integrated circuits, including [ACM TACO](https://dl.acm.org/journal/taco), [IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43), [DAC](https://dac.com/2026), and [DATE](https://date26.date-conference.com). He has served as a PC member and reviewer for several international conferences, including [IEEE ISCAS 2026](https://2026.ieee-iscas.org), [IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html), [IEEE MCSoC 2026](https://mcsoc-forum.org/site), and [IEEE APCCAS 2026](https://apccas2026.org). He also gave an invited talk on Edge-AI Dataflow Accelerators at [CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action).
+<!-- His work has appeared in top journals and conferences on computer architecture and integrated circuits, including [ACM TACO](https://dl.acm.org/journal/taco), [IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43), [DAC](https://dac.com/2026), and [DATE](https://date26.date-conference.com). He has served as a PC member and reviewer for several international conferences, including [IEEE ISCAS 2026](https://2026.ieee-iscas.org), [IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html), [IEEE MCSoC 2026](https://mcsoc-forum.org/site), and [IEEE APCCAS 2026](https://apccas2026.org). He also gave an invited talk on Edge-AI Dataflow Accelerators at [CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action). -->
 
 <!-- He was selected for the China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students (Nominated by CCF). -->
 He has also received the China National Scholarship (2025), the HYGON Scholarship (2024), the UCAS Pacemaker to Merit Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
@@ -24,19 +25,21 @@ Please feel free to reach out for research discussions and potential collaborati
 <div class="news-scroll" markdown="1">
 
 <!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
-* [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉
+<!-- * [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉 -->
+* [2026/07] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A)🎉
+* [2026/07] One paper is accepted by **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)** (CCF-A)🎉
 <!-- * [2026/06] Invited to serve as the **Reviewer** of **[IEEE APCCAS 2026](https://apccas2026.org)**. -->
-* [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)**!🎉
+* [2026/03] One paper is accepted by **[DAC 2026](https://dac.com/2026)** (CCF-A)🎉
 <!-- * [2026/02] Invited to serve as the **PC Member** of **[IEEE MCSoC 2026](https://mcsoc-forum.org/site)**. -->
-* [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆
-* [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)**!🎉
+<!-- * [2025/11] Awarded the **Best Presentation Award** at UCAS Academic Forum 2025!🏆 -->
+* [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)** (CCF-B)🎉
 <!-- * [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**. -->
-* [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
-* [2025/05] Awarded the **UCAS Pacemaker to Merit Student 三好学生标兵**!🏆
-* [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)**!🎉
-* [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)**!🎉
-* [2024/12] Awarded the **HYGON Scholarship 海光奖学金**!🏆
+<!-- * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆 -->
+<!-- * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**. -->
+<!-- * [2025/05] Awarded the **UCAS Pacemaker to Merit Student 三好学生标兵**!🏆 -->
+* [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A)🎉
+* [2025/01] One paper is accepted by **[IEEE ISCAS 2025](https://2025.ieee-iscas.org)** (CCF-B)🎉
+<!-- * [2024/12] Awarded the **HYGON Scholarship 海光奖学金**!🏆 -->
 
 </div>
 
