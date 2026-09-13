@@ -22,7 +22,9 @@ Please feel free to reach out for research discussions and potential collaborati
 
 ## 🔥 News {#news}
 
-<div class="news-scroll" markdown="1">
+<!-- 
+<div class="news-scroll" markdown="1"> 
+-->
 
 <!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
 <!-- * [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉 -->
@@ -35,7 +37,7 @@ Please feel free to reach out for research discussions and potential collaborati
 * [2025/11] One paper is accepted by **[DATE 2026](https://date26.date-conference.com)** (CCF-B) 🎉
 <!-- * [2025/11] Invited to serve as the **Reviewer** of **[IEEE ISCAS 2026](https://2026.ieee-iscas.org)**. -->
 <!-- * [2025/11] Awarded the **National Scholarship 国家奖学金**!🏆 -->
-* [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**.
+<!-- * [2025/07] Giving a talk on **Edge-AI Dataflow Accelerators** at **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action)**. -->
 <!-- * [2025/05] Awarded the **UCAS Pacemaker to Merit Student 三好学生标兵**!🏆 -->
 * [2025/02] One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A) 🎉
 * [2025/01] One paper is accepted by **[ISCAS 2025](https://2025.ieee-iscas.org)** (CCF-B) 🎉
