@@ -50,25 +50,25 @@ Please feel free to reach out for research discussions and potential collaborati
 ## 📝 Selected Publications {#publications}
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
     **<u>S. Qin</u>**, Z. Fan, D. Fan, X. Ye, W. Li\
-    ***ACM TACO***, 2026, Just Accept (**CCF-A**)
+    ***ACM TACO***, 2026, Just Accept (**CCF A**)
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](https://ieeexplore.ieee.org/document/11614540)***\
     T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
-    ***IEEE TCAD***, 2026, Early Access (**CCF-A**)
+    ***IEEE TCAD***, 2026, Early Access (**CCF A**)
 * ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
     Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
-    ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF-A**)
+    ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF A**)
 * ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference](https://ieeexplore.ieee.org/document/11539157)***\
     T. Xia, Z. Fan, J. Xue, **<u>S. Qin</u>**, W. Li, X. Ye\
-    ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF-B**)
+    ***DATE 2026***, Verona, Italy, 2026, pp. 1-7 (**CCF B**)
 * ***[PANDA: Adaptive Prefetching and Decentralized Scheduling for Dataflow Architectures](https://dl.acm.org/doi/10.1145/3721288)***\
     **<u>S. Qin</u>**, Z. Fan, W. Li, Z. Wang, X. An, X. Ye, D. Fan\
-    ***ACM TACO***, 2025, vol. 22, no. 2, article 62, pp. 1-27 (**CCF-A**)
+    ***ACM TACO***, 2025, vol. 22, no. 2, article 62, pp. 1-27 (**CCF A**)
 * ***[StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer](https://ieeexplore.ieee.org/document/11043484)***\
     **<u>S. Qin</u>**, Z. Qiang, Z. Fan, W. Li, X. An, X. Ye, D. Fan\
-    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**CCF-B**)
+    ***IEEE ISCAS 2025***, London, United Kingdom, 2025, pp. 1-5 (**CCF B**)
 * ***[ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators](https://ieeexplore.ieee.org/document/10466951)***\
     **<u>S. Qin</u>**, W. Li, Z. Fan, Z. Wang, T. Liu, H. Wu, K. Zhang, X. An, X. Ye, D. Fan\
-    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF-C**)
+    ***IEEE HPCC 2023***, Melbourne, Australia, 2023, pp. 49-57 (**CCF C**)
 
 **Patents**
 * 李文明, 范志华, **秦善天**, 叶笑春, 孙凝晖. 一种面向异构智能数据流模型的程序执行方法及装置. CN202511335451.5, 2025.
