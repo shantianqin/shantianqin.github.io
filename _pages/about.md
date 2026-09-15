@@ -90,7 +90,7 @@ Please feel free to reach out for research discussions and potential collaborati
 Sep. 2019 - Jul. 2023: **Tongji University**
 * **National Demonstration School of Microelectronics**
 * **B.Eng.** in Electronic Science and Technology (Microelectronics)
-* Advisor: Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**), who supervised my undergraduate research leading to a paper published at ACES 2022 (CIE Tier-Ⅰ Conference)
+* Advisor: Prof. [Meisong Tong](https://see-en.tongji.edu.cn/info/1014/1701.htm) (**IEEE Fellow**), who supervised my undergraduate research leading to a paper published at ACES 2022 (CIE Tier-I Conference)
 * GPA: 90/100, First-Class Outstanding Undergraduate Scholarship (top 5%, 2021-2022)
 
 ## 👨‍🏫 Services {#services}
