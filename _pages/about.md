@@ -122,7 +122,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 ## 🏅 Honors and Awards {#awards}
 * **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
 * **Best Presentation Award**, UCAS Graduate Academic Forum 2025
-* **Outstanding Student** of **State Key Laboratory of Processors**, 2025
+* **Outstanding Student** of **State Key Laboratory of Processors**, SKLP, 2025
 * **National Scholarship 国家奖学金** (**top 0.4%**), Ministry of Education, PRC, 2025
 * **Pacemaker to Merit Student 三好学生标兵** (**top 1%**), UCAS, 2025
 * **HYGON Scholarship 海光奖学金** (**2/200+**), HYGON & ICT-CAS, 2024
@@ -133,14 +133,14 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 
 ## 🎤 Invited Talks {#talks}
 * ***Optimizing Data Access–Flow–Processing Scheduling in Dataflow Architectures for Edge High-Throughput Computing via Hardware-Software Co-Design***\
-    **[UCAS Graduate Academic Forum 2025]() (Best Presentation Award)**, Beijing, China, Nov. 2025
+    **[UCAS Graduate Academic Forum 2025]() (Best Presentation Award)**, Beijing, China, *2025.11*
 * ***Research on Decentralized Task Scheduling for Edge Intelligence Accelerators***\
-    **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Excellent PhD & Young Scholar Forum)**, Lanzhou, China, Jul. 2025
+    **[CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action) (Excellent PhD & Young Scholar Forum)**, Lanzhou, China, *2025.07*
 * ***StreamDCIM: A Tile-Based Streaming Digital CIM Accelerator with Mixed-Stationary Cross-Forwarding Dataflow for Multimodal Transformer***\
-    **[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)**, London, United Kingdom, May 2025\
-    **[ACM ChinaSys 2025-Winter](https://cnsys-2025winter.jlu.edu.cn/) (Spotlight)**, Changchun, China, Dec. 2025
+    **[IEEE ISCAS 2025](https://2025.ieee-iscas.org) (Conference Talk)**, London, United Kingdom, *2025.05*\
+    **[ACM ChinaSys 2025-Winter](https://cnsys-2025winter.jlu.edu.cn/) (Spotlight)**, Changchun, China, *2025.12*
 * ***ROMA: A Reconfigurable On-Chip Memory Architecture for Multi-Core Accelerators***\
-    **[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)**, Melbourne, Australia, Dec. 2023
+    **[IEEE HPCC 2023](https://www.computer.org/csdl/proceedings/hpcc-dss-smartcity-dependsys/2023/1VBw8xqc8Eg) (Conference Talk)**, Melbourne, Australia, *2023.12*
 
 ## 🧑‍💻 Industry Experiences {#internship}
 <div class="industry-title">
