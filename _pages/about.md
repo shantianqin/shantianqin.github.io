@@ -15,8 +15,7 @@ His research focuses on developing energy-efficient computer architectures throu
 
 <!-- His work has appeared in top journals and conferences on computer architecture and integrated circuits, including [ACM TACO](https://dl.acm.org/journal/taco), [IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43), [DAC](https://dac.com/2026), and [DATE](https://date26.date-conference.com). He has served as a PC member and reviewer for several international conferences, including [IEEE ISCAS 2026](https://2026.ieee-iscas.org), [IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html), [IEEE MCSoC 2026](https://mcsoc-forum.org/site), and [IEEE APCCAS 2026](https://apccas2026.org). He also gave an invited talk on Edge-AI Dataflow Accelerators at [CCF Computility 2025](https://conf.ccf.org.cn/web/api/m1338176480617828352173908773509.action). -->
 
-<!-- He was selected for the **China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students** (**nominated by [CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**). -->
-He was selected for the **China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**). 
+<!-- He was selected for the **China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**). -->
 He has also received the China National Scholarship (2025), the HYGON Scholarship (2024), the UCAS Pacemaker to Merit Student (2025), the SKLP Outstanding Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
 <!-- the ICT Director's Scholarship (). -->
 
