@@ -28,7 +28,7 @@ Please feel free to reach out for research discussions and potential collaborati
 <div class="news-scroll" markdown="1"> 
 -->
 
-* *2026.10*: 🏆 Selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程(博士生专项计划)** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**)
+* *2026.10*: 🏆 Selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程（博士生专项计划）** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**)
 <!-- * *2026.10*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
 <!-- * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
 <!-- * *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
