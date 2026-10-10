@@ -27,6 +27,8 @@ Please feel free to reach out for research discussions and potential collaborati
 <div class="news-scroll" markdown="1"> 
 -->
 
+* *2026.10*: 🏆 Selected for the **CAST Young S&T Talents Cultivation Project for Doctoral Students** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**)
+* 
 <!-- * *2026.10*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
 <!-- * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
 <!-- * *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
@@ -55,7 +57,7 @@ Please feel free to reach out for research discussions and potential collaborati
 ## 📝 Selected Publications {#publications}
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
     **<u>S. Qin</u>**, Z. Fan, D. Fan, X. Ye, W. Li\
-    ***ACM TACO***, 2026, Just Accept (**CCF A**)
+    ***ACM TACO***, 2026, vol. 23, no. 3, article 102, pp. 1-24 (**CCF A**)
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](https://ieeexplore.ieee.org/document/11614540)***\
     T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
     ***IEEE TCAD***, 2026, Early Access (**CCF A**)
