@@ -123,6 +123,7 @@ Sep. 2019 - Jul. 2023: **Tongji University**
 * **Executive Committee Member** of Student Union, Tongji University, 2021-2022
 
 ## 🏅 Honors and Awards {#awards}
+* **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程 (博士生专项计划)**, CAST, 2026
 * **Outstanding Student Leader 优秀学生干部** (**top 2%**), UCAS, 2026
 * **Best Presentation Award**, UCAS Graduate Academic Forum 2025
 * **Outstanding Student** of **State Key Laboratory of Processors**, SKLP, 2025
