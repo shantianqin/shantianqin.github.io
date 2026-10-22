@@ -18,7 +18,7 @@ His research focuses on developing energy-efficient computer architectures throu
 <!-- He was selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程（博士生专项计划）** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**). --> 
 <!-- He was selected for the **China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project for Doctoral Students** (nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**. -->
 <!-- He was selected for the **China Association for Science and Technology (CAST) Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程 (博士生专项计划)**, nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**. -->
-He was selected for the **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程 (博士生专项计划)**, nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**. 
+He was selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程 (博士生专项计划)**, nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)**. 
 He has also received the China National Scholarship (2025), the HYGON Scholarship (2024), the UCAS Pacemaker to Merit Student (2025), the SKLP Outstanding Student (2025), and the Best Presentation Award at the UCAS Graduate Academic Forum (2025).
 <!-- the ICT Director's Scholarship (). -->
 
