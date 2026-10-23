@@ -62,7 +62,7 @@ Please feel free to reach out for research discussions and potential collaborati
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](https://ieeexplore.ieee.org/document/11614540)***\
     T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
     ***IEEE TCAD***, 2026, Early Access (**CCF A**)
-* ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference]()***\
+* ***[UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference](https://dl.acm.org/doi/10.1145/3770743.3806382)***\
     Z. Hu, Z. Fan, **<u>S. Qin</u>**, Y. Mu, W. Li, X. Ye\
     ***DAC 2026***, Long Beach, CA, USA, 2026, pp. 1-7 (**CCF A**)
 * ***[RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference](https://ieeexplore.ieee.org/document/11539157)***\
