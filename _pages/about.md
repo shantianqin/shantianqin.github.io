@@ -31,9 +31,9 @@ Please feel free to reach out for research discussions and potential collaborati
 -->
 
 <!-- * *2026.10*: 🏆 Selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程（博士生专项计划）**, nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)** -->
-<!-- * *2026.10*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
+* *2026.11*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
 <!-- * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
-* *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
+<!-- * *2026.10*: 🎉 One paper is invited to **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
 <!-- * [2026/08] Invited to serve as the **PC Member** of **[IEEE BigData 2026](https://bigdataieee.org/BigData2026/index.html)**. -->
 <!-- * [2026/07] Two papers are accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** and **[IEEE TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)**!🎉 -->
 * *2026.07*: 🎉 One paper is accepted by **[ACM TACO](https://dl.acm.org/journal/taco)** (CCF-A)
@@ -59,6 +59,7 @@ Please feel free to reach out for research discussions and potential collaborati
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
     **<u>S. Qin</u>**, Z. Fan, D. Fan, X. Ye, W. Li\
     ***ACM TACO***, 2026, vol. 23, no. 3, article 102, pp. 1-24 (**CCF A**)
+    ***HiPEAC 2026***, Glasgow, United Kingdom, 2027, pp. 1-24 (**CCF B**)
 * ***[A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](https://ieeexplore.ieee.org/document/11614540)***\
     T. Xia, Z. Fan, J. Xue, T. Luo, **<u>S. Qin</u>**, X. Ye, D. Fan, W. Li\
     ***IEEE TCAD***, 2026, Early Access (**CCF A**)
