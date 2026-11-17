@@ -30,6 +30,7 @@ Please feel free to reach out for research discussions and potential collaborati
 <div class="news-scroll" markdown="1"> 
 -->
 
+* *2026.11*: 🎉 One paper is accepted by **[DATE 2027](https://date27.date-conference.com)** (CCF-B)
 <!-- * *2026.10*: 🏆 Selected for **CAST Young S&T Talents Cultivation Project (Doctoral Student Program) 中国科协青年科技人才培育工程（博士生专项计划）**, nominated by **[CCF](https://mp.weixin.qq.com/s/KrzppOsRs6LxTN0DrLEpng)** -->
 * *2026.11*: 🎉 One paper is accepted by **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B)
 <!-- * *2026.10*: 🎉 One paper is selected for **[HiPEAC 2027](https://www.hipeac.net/2027/glasgow/#/)** (CCF-B) -->
@@ -56,6 +57,9 @@ Please feel free to reach out for research discussions and potential collaborati
 -->
 
 ## 📝 Selected Publications {#publications}
+* ***[LISA: Locality-Adaptive Selection and Fused Execution for Efficient Sparse Softmax]()***\
+    Y. Zhu, Z. Fan, D. Wang, **<u>S. Qin</u>**, X. Ye, W. Li\
+    ***DATE 2027***, Dresden, Germany, 2027, pp. 1-7 (**CCF B**)
 * ***[TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](https://dl.acm.org/doi/10.1145/3833878)***\
     **<u>S. Qin</u>**, Z. Fan, D. Fan, X. Ye, W. Li\
     ***ACM TACO & HiPEAC 2027***, 2026, vol. 23, no. 3, article 102, pp. 1-24 (**CCF A**)
